@@ -2,20 +2,25 @@
   {
     "key": "filmNoir",
     "val": "The rain-slicked scene was shrouded in darkness, with a lone figure in a fedora and trench coat standing beneath a flickering neon sign. The scene was straight out of a classic film noir, evoking the dark and brooding style of directors like Hitchcock and Welles",
-    "longDesc": "The dimly lit room was bathed in shadows, casting a moody and mysterious atmosphere over the scene. A lone figure, dressed in a long trench coat and fedora, leaned against a brick wall smoking a cigarette, the smoke curling around their face. \nIn the distance, a neon sign flickered, illuminating the rain-soaked pavement below. The scene was reminiscent of a classic film noir, evoking the dark and brooding style of directors like Alfred Hitchcock, Orson Welles, and Billy Wilder."
+    "longDesc": "The dimly lit room was bathed in shadows, casting a moody and mysterious atmosphere over the scene. A lone figure, dressed in a long trench coat and fedora, leaned against a brick wall smoking a cigarette, the smoke curling around their face. \nIn the distance, a neon sign flickered, illuminating the rain-soaked pavement below. The scene was reminiscent of a classic film noir, evoking the dark and brooding style of directors like Alfred Hitchcock, Orson Welles, and Billy Wilder.",
+    "row": 0
   },
   {
     "key": "retroFuture",
-    "val": "illustration for the cover of a graphic novel \nin a floating city by Jean Giraud Moebius, the Incal, Syd Mead",
-    "longDesc": "for the cover of a graphic novel \nin a floating city by Jean Giraud Moebius, the Incal, Syd Mead"
+    "val": "cover illustration for a graphic novel by Jean Giraud Moebius, the Incal, by Syd Mead. retro future stylish drawing",
+    "longDesc": "for the cover of a graphic novel \nin a floating city by Jean Giraud Moebius, the Incal, Syd Mead",
+    "row": 1
   },
   {
     "key": "futureNoir",
     "val": "futuristic film noir anime comic book high contrast illustration",
-    "longDesc": "futuristic film noir anime comic book high contrast illustration"
+    "longDesc": "futuristic film noir anime comic book high contrast illustration",
+    "row": 2
   },
   {
     "key": "animeNoir",
-    "val": "futuristic film noir anime comic book high contrast illustration style of Akira"
+    "val": "futuristic film noir anime comic book high contrast illustration style of Akira",
+    "longDesc": "",
+    "row": 3
   }
 ]

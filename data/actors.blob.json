@@ -2,68 +2,97 @@
   {
     "name": "Ginger",
     "key": "ginger",
-    "val": "early 30s, ethnically ambiguous - smart, striking, and tough cross between a young Jennifer Lopez and Velma Kelly",
+    "val": "early 30s ethnically ambiguous woman in a red dress wearing Jackie Onassis sunglasses",
     "long": "She wears a long sleeved black dress, cheetah heels, Jackie O. sunglasses and head scarf. She smokes.",
-    "Style ": "futuristic film noir anime comic book high contrast illustration"
+    "Style ": "futuristic film noir anime comic book high contrast illustration",
+    "row": 0
   },
   {
-    "name": "Jamal ",
-    "key": "jamal ",
-    "val": "32, burly, black, doo rag, tats, a scar on his neck — a hooded cross between 50 Cent and Mike Tyson"
+    "name": "Jamal",
+    "key": "jamal",
+    "val": "32, burly, black, doo rag, tats, a scar on his neck — a hooded cross between 50 Cent and Mike Tyson",
+    "long": "",
+    "Style ": "",
+    "row": 1
   },
   {
     "name": "Hadji",
     "key": "hadji",
     "val": "26, swarthy, angsty, nihilistic heart throb. He wears a black duster that reveals his bare chest, long hair, beard, goth necklaces, facial piercings, and dark eye liner. He’s strung out — smoking and drinking from a sake flask.",
-    "long": "is surrounded by gorgeous fawning women. He wears a black duster that reveals his bare chest, long hair, beard, goth necklaces, facial piercings, and dark eye liner."
+    "long": "is surrounded by gorgeous fawning women. He wears a black duster that reveals his bare chest, long hair, beard, goth necklaces, facial piercings, and dark eye liner.",
+    "Style ": "",
+    "row": 2
   },
   {
     "name": "Roxie",
     "key": "roxie",
     "val": "19, biracial, magnetic presence",
-    "long": "emerges from the shadows in a silvery white bob wig with black headband. Her bangs, which fall over her wrap-around sunglasses, partially conceal her face, but not the beauty mark above her lip. She wears a sparkling, skin-tight catsuit."
+    "long": "emerges from the shadows in a silvery white bob wig with black headband. Her bangs, which fall over her wrap-around sunglasses, partially conceal her face, but not the beauty mark above her lip. She wears a sparkling, skin-tight catsuit.",
+    "Style ": "",
+    "row": 3
   },
   {
     "name": "CEO",
     "key": "ceo",
     "val": "40s, a fierce mix of Missy Elliot’s gold track suit style, gold crown, shutter shades, and Wanda Sykes don’t-mess attitude",
-    "long": "is now seen, sitting on a EXECUTIVE THRONE made from melted AK-47s. She descends the stairs. a gleaming gold grill terrifyingly large and protruding"
+    "long": "is now seen, sitting on a EXECUTIVE THRONE made from melted AK-47s. She descends the stairs. a gleaming gold grill terrifyingly large and protruding",
+    "Style ": "",
+    "row": 4
   },
   {
-    "name": "Vivian ",
-    "key": "vivian ",
+    "name": "Vivian",
+    "key": "vivian",
     "val": "20s/30s, ambiguous race, a dangerous allure in secretary chic",
-    "long": "takes the stage."
+    "long": "takes the stage.",
+    "Style ": "",
+    "row": 5
   },
   {
     "name": "Hit Squad",
     "key": "hitSquad",
     "val": "(20s, any ethnicity, striking killing machines dressed in sleek outfits)",
-    "long": "the CEO’s security quartet of sexy assassins Their look is bondage-secretary chic, down to their TRI-BLADE HAND CLAWS."
+    "long": "the CEO’s security quartet of sexy assassins Their look is bondage-secretary chic, down to their TRI-BLADE HAND CLAWS.",
+    "Style ": "",
+    "row": 6
   },
   {
-    "name": "Mysterioso ",
-    "key": "mysterioso ",
-    "val": "a mysterious FIGURE, face hidden in a velvet hooded robe."
+    "name": "Mysterioso",
+    "key": "mysterioso",
+    "val": "a mysterious FIGURE, face hidden in a velvet hooded robe.",
+    "long": "",
+    "Style ": "",
+    "row": 7
   },
   {
     "name": "DJ",
     "key": "dj",
-    "val": "A hip global DJ with mirror glasses"
+    "val": "A hip global DJ with mirror glasses",
+    "long": "",
+    "Style ": "",
+    "row": 8
   },
   {
     "name": "Masked Troopers",
     "key": "troopers",
-    "val": "A squad of asian troopers wearing masks"
+    "val": "A squad of asian troopers wearing masks",
+    "long": "",
+    "Style ": "",
+    "row": 9
   },
   {
     "name": "Narrator",
     "key": "narrator",
-    "val": "(Narrator)"
+    "val": "(Narrator)",
+    "long": "",
+    "Style ": "",
+    "row": 10
   },
   {
     "name": "",
     "key": "boardMembers",
-    "val": "20s-50s, mix genders and ethnicities, epitomizing corporate cool with deadpan stares, smoldering gazes and perfectly coiffed hair"
+    "val": "20s-50s, mix genders and ethnicities, epitomizing corporate cool with deadpan stares, smoldering gazes and perfectly coiffed hair",
+    "long": "",
+    "Style ": "",
+    "row": 11
   }
 ]

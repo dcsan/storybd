@@ -1,10 +1,10 @@
 [
   {
     "key": "ginger",
-    "val": "early 30s, ethnically ambiguous - smart, striking, and tough cross between a young Jennifer Lopez and Velma Kelly"
+    "val": "early 30s ethnically ambiguous woman in a red dress wearing Jackie Onassis sunglasses"
   },
   {
-    "key": "jamal ",
+    "key": "jamal",
     "val": "32, burly, black, doo rag, tats, a scar on his neck — a hooded cross between 50 Cent and Mike Tyson"
   },
   {
@@ -20,7 +20,7 @@
     "val": "40s, a fierce mix of Missy Elliot’s gold track suit style, gold crown, shutter shades, and Wanda Sykes don’t-mess attitude"
   },
   {
-    "key": "vivian ",
+    "key": "vivian",
     "val": "20s/30s, ambiguous race, a dangerous allure in secretary chic"
   },
   {
@@ -28,7 +28,7 @@
     "val": "(20s, any ethnicity, striking killing machines dressed in sleek outfits)"
   },
   {
-    "key": "mysterioso ",
+    "key": "mysterioso",
     "val": "a mysterious FIGURE, face hidden in a velvet hooded robe."
   },
   {
@@ -57,7 +57,7 @@
   },
   {
     "key": "hosExt",
-    "val": "In front of the building’s Art Deco rotunda and towering curved facade, a media circus of paparazzi, reporters and fans gather behind barricades. "
+    "val": "In front of the building’s Art Deco rotunda and towering curved facade, a media circus of paparazzi, reporters and fans gather behind barricades."
   },
   {
     "key": "hosSteps",
@@ -75,14 +75,17 @@
     "key": "",
     "val": "The club features a cheaply designed fiberglass, foam alien garden set design. It’s a faux bio-luminescent grassland teeming with “exotic” plants and underwater coral reefs and plankton. More depressing than magical."
   },
-  {},
+  {
+    "key": "",
+    "val": ""
+  },
   {
     "key": "ConferenceRoom",
     "val": "The conference room is dark and accented by ambient lighting. A glowing, circular WAR TABLE is in the center surrounded by VIDEO SCREEN walls that loop ultra stylish Monocorp consumer ads for everything from weapons to breakfast cereal."
   },
   {
     "key": "prisonext",
-    "val": "In the heart of Los Angeles, a gutted Hilton Hotel has been converted into a prison. Inside the perimeter of barbed wire is the sign “LA Hilton Central Prison.” "
+    "val": "In the heart of Los Angeles, a gutted Hilton Hotel has been converted into a prison. Inside the perimeter of barbed wire is the sign “LA Hilton Central Prison.”"
   },
   {
     "key": "opiumint",
@@ -94,7 +97,7 @@
   },
   {
     "key": "",
-    "val": "a BAZAAR with CHRISTMAS LIGHTS strung up over WET MARKETS and RATIONING BOOTHS. "
+    "val": "a BAZAAR with CHRISTMAS LIGHTS strung up over WET MARKETS and RATIONING BOOTHS."
   },
   {
     "key": "filmNoir",
@@ -102,7 +105,7 @@
   },
   {
     "key": "retroFuture",
-    "val": "illustration for the cover of a graphic novel \nin a floating city by Jean Giraud Moebius, the Incal, Syd Mead"
+    "val": "cover illustration for a graphic novel by Jean Giraud Moebius, the Incal, by Syd Mead. retro future stylish drawing"
   },
   {
     "key": "futureNoir",
@@ -111,5 +114,13 @@
   {
     "key": "animeNoir",
     "val": "futuristic film noir anime comic book high contrast illustration style of Akira"
+  },
+  {
+    "key": "jumper",
+    "val": "futuristic hover cars flying through the sky"
+  },
+  {
+    "key": "jumpers",
+    "val": "futuristic hover cars flying through the sky"
   }
 ]

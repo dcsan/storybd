@@ -160,8 +160,8 @@
     "A troupe of Mexican performers hunched over dressed in sombreros with streamers, ponchos and masks stomp their feet and canes in a rhythmic do-si-do dance to the beat.",
     "",
     "A troupe of Mexican performers hunched over dressed in sombreros with streamers, ponchos and masks stomp their feet and canes in a rhythmic do-si-do dance to the beat.\n",
-    "A troupe of Mexican performers hunched over dressed in sombreros with streamers, ponchos and masks stomp their feet and canes in a rhythmic do-si-do dance to the beat.\n",
-    "FALSE"
+    "[Jamal] walks through a BAZAAR with CHRISTMAS LIGHTS strung up over WET MARKETS and RATIONING BOOTHS. \n",
+    "TRUE"
   ],
   [
     "",
@@ -180,7 +180,7 @@
     "Jamal is amazed at the Jumpers in the sky. A lot has changed in the ten years he was inside. ",
     "",
     "Jamal iooks up at the Jumpers in the sky.",
-    "[Jamal] iooks up at the [Jumpers] in the sky",
+    "[Jamal] iooks up at the [jumpers] in the sky",
     "TRUE"
   ],
   [
@@ -212,8 +212,8 @@
     "A scantily-clad, mask-wearing lady sells betel nuts from a neon-lit glass kiosk. She beckons a passing Jamal.",
     "",
     "A scantily-clad, mask-wearing lady sells betel nuts from a neon-lit glass kiosk beckons Jamal",
-    "A scantily-clad, mask-wearing lady sells betel nuts from a neon-lit glass kiosk beckons Jamal",
-    "FALSE"
+    "A scantily-clad mask-wearing lady sells betel nuts from a neon-lit glass kiosk",
+    "TRUE"
   ],
   [
     "",
@@ -341,8 +341,7 @@
     "For my next trick, I’ll need a condom and a female volunteer.",
     "",
     "",
-    "FALSE",
-    "For my next trick, I’ll need a condom and a female volunteer."
+    "FALSE"
   ],
   [
     "",
@@ -373,9 +372,9 @@
     "Two guards tap their PAL headpieces and pick up Hadji, and drag him to the Jumper outside.",
     "",
     "",
-    "Two bar guards drag Hadji out of the club/ The Two guards put Hadji into a gold flying quadcopter outside",
+    "Two bar guards drag [Hadji] out of the club",
     "TRUE",
-    "Two bar guards drag Hadji out of the club/ The Two guards put Hadji into a gold flying quadcopter outside"
+    "Two bar guards drag Hadji out of the club"
   ],
   [
     "",
@@ -425,7 +424,7 @@
     "The club’s scruffy, ragtag performers - most likely sex workers - wear green screen suits with surgical gloves, respiratory masks and minimal costume accessories: ears, butt plugs attached to rubber tails, alien headgear, strap-on dildos and artificial pussies. ",
     "",
     "",
-    "The club’s scruffy, ragtag cosplay performers wear green screen suits with surgical gloves, respiratory masks and minimal costume accessories: ears, butt plugs attached to rubber tails, alien headgear, strap-on dildos and artificial pussies. ",
+    "The club’s scruffy, ragtag cosplay performers wear green screen suits with surgical gloves, respiratory masks and minimal costume accessories: ears, rubber tails, alien headgear",
     "TRUE",
     "The club’s scruffy, ragtag cosplay performers wear green screen suits with surgical gloves, respiratory masks and minimal costume accessories: ears, butt plugs attached to rubber tails, alien headgear, strap-on dildos and artificial pussies. "
   ],
@@ -558,8 +557,8 @@
   [
     "",
     "",
+    "Jamal ",
     "",
-    "",
-    "JAMAL\rI know ya moved grande dame’s name from the marquee to a tombstone. Changed her wonderful life from an “is” to a “was”. "
+    "I know ya moved grande dame’s name from the marquee to a tombstone. Changed her wonderful life from an “is” to a “was”. "
   ]
 ]
