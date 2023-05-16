@@ -1,93 +1,114 @@
 [
   {
-    "name": "capitol-records-building-ext",
+    "name": "capitolExt",
     "key": "capitolExt",
-    "val": "dfadf",
+    "val": "CAPITOL RECORDS TOWER - decrepit and abandoned - leans precariously in the background.",
     "shortDesc": "",
+    "EXTRA": "",
     "row": 0
   },
   {
-    "name": "front-of-kiosk-ext",
+    "name": "kioskExt",
     "key": "kioskExt",
-    "val": "kjhadfs",
+    "val": "Gold interactive futuristic digital kiosk",
     "shortDesc": "",
+    "EXTRA": "",
     "row": 1
   },
   {
-    "name": "hall-of-shame-ext",
+    "name": "hosExt",
     "key": "hosExt",
-    "val": "In front of the building’s Art Deco rotunda and towering curved facade, a media circus of paparazzi, reporters and fans gather behind barricades.",
+    "val": "In front of the building’s Art Deco rotunda and towering curved facade,",
     "shortDesc": "courtoom steps",
+    "EXTRA": "a media circus of paparazzi, reporters and fans gather behind barricades.",
     "row": 2
   },
   {
-    "name": "",
+    "name": "hosSteps",
     "key": "hosSteps",
     "val": "The steps of the Hall of Justice",
     "shortDesc": "",
+    "EXTRA": "",
     "row": 3
   },
   {
-    "name": "monocorp-tower-ext",
+    "name": "monocorpExt",
     "key": "monocorpExt",
     "val": "The awe-inspiring MONOCORP Tower is a 91-story, golden, art deco tapered obelisk. On the building’s illuminated ornamental CROWN, a giant four-sided jumbotron video screen broadcasts a montage of Monocorp products.",
     "shortDesc": "",
+    "EXTRA": "",
     "row": 4
   },
   {
-    "name": "monocorp-penthouse",
+    "name": "monocorpPenthouse",
     "key": "monocorpPenthouse",
     "val": "Monocorp’s penthouse media center overlooks the city. CIGARETTE SMOKE wafts in the air. a raised stage surrounded by video screens",
     "shortDesc": "",
+    "EXTRA": "",
     "row": 5
   },
   {
-    "name": "SSS-int.",
-    "key": "",
-    "val": "The club features a cheaply designed fiberglass, foam alien garden set design. It’s a faux bio-luminescent grassland teeming with “exotic” plants and underwater coral reefs and plankton. More depressing than magical.",
+    "name": "sssInt",
+    "key": "sssInt",
+    "val": "The dark shadowy club features cheaply designed stage props",
     "shortDesc": "",
+    "EXTRA": "The club features a cheaply designed fiberglass, foam alien garden set design. It’s a faux bio-luminescent grassland teeming with “exotic” plants and underwater coral reefs and plankton. More depressing than magical.",
     "row": 6
   },
   {
-    "name": "BangkokSSS-int.",
-    "key": "",
-    "val": "",
+    "name": "boardRoomInt",
+    "key": "boardRoomInt",
+    "val": "Corporate boardroom with full screen video presentation",
     "shortDesc": "",
+    "EXTRA": "",
     "row": 7
   },
   {
-    "name": "Conference-room-int.",
+    "name": "ConferenceRoom",
     "key": "ConferenceRoom",
-    "val": "The conference room is dark and accented by ambient lighting. A glowing, circular WAR TABLE is in the center surrounded by VIDEO SCREEN walls that loop ultra stylish Monocorp consumer ads for everything from weapons to breakfast cereal.",
+    "val": "The conference room is dark and accented by ambient lighting. A glowing, circular WAR TABLE is in the center surrounded by VIDEO SCREEN walls with ads of Roxie Star",
     "shortDesc": "",
+    "EXTRA": "The conference room is dark and accented by ambient lighting. A glowing, circular WAR TABLE is in the center surrounded by VIDEO SCREEN walls that loop ultra stylish Monocorp consumer ads for everything from weapons to breakfast cereal.",
     "row": 8
   },
   {
-    "name": "prison.ext",
-    "key": "prisonext",
-    "val": "In the heart of Los Angeles, a gutted Hilton Hotel has been converted into a prison. Inside the perimeter of barbed wire is the sign “LA Hilton Central Prison.”",
+    "name": "prisonExt",
+    "key": "prisonExt",
+    "val": "Decrepit Hotel prison, barbed wire neon sign",
     "shortDesc": "",
+    "EXTRA": "",
     "row": 9
   },
   {
-    "name": "clubopium.int",
+    "name": "opiumint",
     "key": "opiumint",
     "val": "Club Opium is a mix of a luxurious Parisian cabaret, a hookah bar, and an imitation of opium dens of the past.",
     "shortDesc": "",
+    "EXTRA": "",
     "row": 10
   },
   {
-    "name": "sss-ext",
+    "name": "sssext",
     "key": "sssext",
     "val": "Siamese Sex Show - an augmented reality sex club. Just outside the entrance is the hologram of a creepy vintage HOLLYWOOD MOVIE USHER (white, 23, ghoulish face with classic jacket, trousers, hat and flashlight.) Ash falls like snowflakes.",
     "shortDesc": "SSSClub",
+    "EXTRA": "",
     "row": 11
   },
   {
-    "name": "Wet-market.ext",
-    "key": "",
+    "name": "wetMarket",
+    "key": "wetMarket",
     "val": "a BAZAAR with CHRISTMAS LIGHTS strung up over WET MARKETS and RATIONING BOOTHS.",
     "shortDesc": "",
+    "EXTRA": "",
     "row": 12
+  },
+  {
+    "name": "hosInt.",
+    "key": "hosint",
+    "val": "Art-deco inspired interior combines flickering lights, twisted and distorted geometric patterns, and shadows.",
+    "shortDesc": "",
+    "EXTRA": "",
+    "row": 13
   }
 ]

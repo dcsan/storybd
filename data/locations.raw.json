@@ -3,71 +3,84 @@
     "name",
     "key",
     "val",
-    "shortDesc"
+    "shortDesc",
+    "EXTRA"
   ],
   [
-    "capitol-records-building-ext",
     "capitolExt",
-    "dfadf"
+    "capitolExt",
+    "CAPITOL RECORDS TOWER - decrepit and abandoned - leans precariously in the background. "
   ],
   [
-    "front-of-kiosk-ext",
     "kioskExt",
-    "kjhadfs"
+    "kioskExt",
+    "Gold interactive futuristic digital kiosk "
   ],
   [
-    "hall-of-shame-ext",
     "hosExt",
-    "In front of the building’s Art Deco rotunda and towering curved facade, a media circus of paparazzi, reporters and fans gather behind barricades. ",
-    "courtoom steps"
+    "hosExt",
+    "In front of the building’s Art Deco rotunda and towering curved facade,  ",
+    "courtoom steps",
+    "a media circus of paparazzi, reporters and fans gather behind barricades."
   ],
   [
-    "",
+    "hosSteps",
     "hosSteps",
     "The steps of the Hall of Justice"
   ],
   [
-    "monocorp-tower-ext",
+    "monocorpExt",
     "monocorpExt",
     "The awe-inspiring MONOCORP Tower is a 91-story, golden, art deco tapered obelisk. On the building’s illuminated ornamental CROWN, a giant four-sided jumbotron video screen broadcasts a montage of Monocorp products."
   ],
   [
-    "monocorp-penthouse",
+    "monocorpPenthouse",
     "monocorpPenthouse",
     "Monocorp’s penthouse media center overlooks the city. CIGARETTE SMOKE wafts in the air. a raised stage surrounded by video screens"
   ],
   [
-    "SSS-int.",
+    "sssInt",
+    "sssInt",
+    "The dark shadowy club features cheaply designed stage props ",
     "",
     "The club features a cheaply designed fiberglass, foam alien garden set design. It’s a faux bio-luminescent grassland teeming with “exotic” plants and underwater coral reefs and plankton. More depressing than magical."
   ],
   [
-    "BangkokSSS-int."
+    "boardRoomInt",
+    "boardRoomInt",
+    "Corporate boardroom with full screen video presentation"
   ],
   [
-    "Conference-room-int.",
     "ConferenceRoom",
+    "ConferenceRoom",
+    "The conference room is dark and accented by ambient lighting. A glowing, circular WAR TABLE is in the center surrounded by VIDEO SCREEN walls with ads of Roxie Star",
+    "",
     "The conference room is dark and accented by ambient lighting. A glowing, circular WAR TABLE is in the center surrounded by VIDEO SCREEN walls that loop ultra stylish Monocorp consumer ads for everything from weapons to breakfast cereal."
   ],
   [
-    "prison.ext",
-    "prisonext",
-    "In the heart of Los Angeles, a gutted Hilton Hotel has been converted into a prison. Inside the perimeter of barbed wire is the sign “LA Hilton Central Prison.” "
+    "prisonExt",
+    "prisonExt",
+    "Decrepit Hotel prison, barbed wire neon sign"
   ],
   [
-    "clubopium.int",
+    "opiumint",
     "opiumint",
     "Club Opium is a mix of a luxurious Parisian cabaret, a hookah bar, and an imitation of opium dens of the past."
   ],
   [
-    "sss-ext",
+    "sssext",
     "sssext",
     "Siamese Sex Show - an augmented reality sex club. Just outside the entrance is the hologram of a creepy vintage HOLLYWOOD MOVIE USHER (white, 23, ghoulish face with classic jacket, trousers, hat and flashlight.) Ash falls like snowflakes.",
     "SSSClub"
   ],
   [
-    "Wet-market.ext",
-    "",
+    "wetMarket",
+    "wetMarket",
     "a BAZAAR with CHRISTMAS LIGHTS strung up over WET MARKETS and RATIONING BOOTHS. "
+  ],
+  [
+    "hosInt.",
+    "hosint",
+    "Art-deco inspired interior combines flickering lights, twisted and distorted geometric patterns, and shadows."
   ]
 ]

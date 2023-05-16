@@ -1,12 +1,26 @@
 [
   {
+    "type": "item",
     "key": "jumper",
-    "val": "futuristic hover cars flying through the sky",
+    "val": "futuristic scifi quad copter hover cars flying in the sky",
     "row": 0
   },
   {
+    "type": "item",
     "key": "jumpers",
-    "val": "futuristic hover cars flying through the sky",
+    "val": "futuristic scifi quad copter hover cars flying in the sky",
     "row": 1
+  },
+  {
+    "type": "item",
+    "key": "snowcapitol",
+    "val": "snowglobe of capitol records building",
+    "row": 2
+  },
+  {
+    "type": "item",
+    "key": "snowmono",
+    "val": "snowglobe of Monocorp Tower",
+    "row": 3
   }
 ]

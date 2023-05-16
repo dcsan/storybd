@@ -1,7 +1,7 @@
 [
   {
-    "name": "Ginger",
-    "key": "ginger",
+    "name": "Tiara",
+    "key": "tiara",
     "val": "early 30s ethnically ambiguous woman in a red dress wearing Jackie Onassis sunglasses",
     "long": "She wears a long sleeved black dress, cheetah heels, Jackie O. sunglasses and head scarf. She smokes.",
     "Style ": "futuristic film noir anime comic book high contrast illustration",
@@ -10,7 +10,7 @@
   {
     "name": "Jamal",
     "key": "jamal",
-    "val": "32, burly, black, doo rag, tats, a scar on his neck — a hooded cross between 50 Cent and Mike Tyson",
+    "val": "Young male, burly, black, doo rag, tats, a scar on his neck, 50 Cent and Mike Tyson, wearing a hoodie",
     "long": "",
     "Style ": "",
     "row": 1
@@ -18,23 +18,23 @@
   {
     "name": "Hadji",
     "key": "hadji",
-    "val": "26, swarthy, angsty, nihilistic heart throb. He wears a black duster that reveals his bare chest, long hair, beard, goth necklaces, facial piercings, and dark eye liner. He’s strung out — smoking and drinking from a sake flask.",
-    "long": "is surrounded by gorgeous fawning women. He wears a black duster that reveals his bare chest, long hair, beard, goth necklaces, facial piercings, and dark eye liner.",
-    "Style ": "",
+    "val": "young indian man, swarthy, heart throb, handsome looks like Keanu Reeves",
+    "long": "26, swarthy, angsty, nihilistic heart throb. He wears a black duster that reveals his bare chest, long hair, beard, goth necklaces, facial piercings, and dark eye liner. He’s strung out — smoking and drinking from a sake flask.is surrounded by gorgeous fawning women. He wears a black duster that reveals his bare chest, long hair, beard, goth necklaces, facial piercings, and dark eye liner.",
+    "Style ": "is surrounded by gorgeous fawning women. He wears a black duster that reveals his bare chest, long hair, beard, goth necklaces, facial piercings, and dark eye liner.",
     "row": 2
   },
   {
     "name": "Roxie",
     "key": "roxie",
-    "val": "19, biracial, magnetic presence",
-    "long": "emerges from the shadows in a silvery white bob wig with black headband. Her bangs, which fall over her wrap-around sunglasses, partially conceal her face, but not the beauty mark above her lip. She wears a sparkling, skin-tight catsuit.",
+    "val": "Young woman 19, biracial, magnetic presence, a silvery white bob wig with wrap-around sunglasses",
+    "long": "a silvery white bob wig with black headband. Her bangs, which fall over her wrap-around sunglasses, partially conceal her face, but not the beauty mark above her lip. She wears a sparkling, skin-tight catsuit.",
     "Style ": "",
     "row": 3
   },
   {
     "name": "CEO",
     "key": "ceo",
-    "val": "40s, a fierce mix of Missy Elliot’s gold track suit style, gold crown, shutter shades, and Wanda Sykes don’t-mess attitude",
+    "val": "Woman 40s, a fierce mix of Missy Elliot’s gold track suit style, gold crown, shutter shades, and Wanda Sykes don’t-mess attitude",
     "long": "is now seen, sitting on a EXECUTIVE THRONE made from melted AK-47s. She descends the stairs. a gleaming gold grill terrifyingly large and protruding",
     "Style ": "",
     "row": 4
@@ -42,7 +42,7 @@
   {
     "name": "Vivian",
     "key": "vivian",
-    "val": "20s/30s, ambiguous race, a dangerous allure in secretary chic",
+    "val": "Woman 20s/30s, ambiguous race, a dangerous allure in secretary chic",
     "long": "takes the stage.",
     "Style ": "",
     "row": 5
@@ -50,7 +50,7 @@
   {
     "name": "Hit Squad",
     "key": "hitSquad",
-    "val": "(20s, any ethnicity, striking killing machines dressed in sleek outfits)",
+    "val": "(20s, any ethnicity, striking killing machines dressed in sleek power suits",
     "long": "the CEO’s security quartet of sexy assassins Their look is bondage-secretary chic, down to their TRI-BLADE HAND CLAWS.",
     "Style ": "",
     "row": 6
@@ -58,7 +58,7 @@
   {
     "name": "Mysterioso",
     "key": "mysterioso",
-    "val": "a mysterious FIGURE, face hidden in a velvet hooded robe.",
+    "val": "a mysterious FIGURE, face completely hidden in a velvet hooded robe",
     "long": "",
     "Style ": "",
     "row": 7
@@ -74,7 +74,7 @@
   {
     "name": "Masked Troopers",
     "key": "troopers",
-    "val": "A squad of asian troopers wearing masks",
+    "val": "A squad of troopers wearing black helmets and balaclava masks",
     "long": "",
     "Style ": "",
     "row": 9
@@ -88,11 +88,35 @@
     "row": 10
   },
   {
-    "name": "",
-    "key": "boardMembers",
+    "name": "boardmembers",
+    "key": "boardmembers",
     "val": "20s-50s, mix genders and ethnicities, epitomizing corporate cool with deadpan stares, smoldering gazes and perfectly coiffed hair",
     "long": "",
     "Style ": "",
     "row": 11
+  },
+  {
+    "name": "ringmaster",
+    "key": "ringmaster",
+    "val": "30s, man, handsome wearing red tail coat with chain closure, vest dickey with attached bow tie, top hat) appears and hypes the lonesome crowd.",
+    "long": "",
+    "Style ": "",
+    "row": 12
+  },
+  {
+    "name": "SSSperformers",
+    "key": "",
+    "val": "Scruffy, ragtag cosplay performers - most likely sex workers - wear green screen suits with surgical gloves, respiratory masks and minimal costume accessories",
+    "long": "",
+    "Style ": "",
+    "row": 13
+  },
+  {
+    "name": "Proprietor",
+    "key": "",
+    "val": "Thai ladyboy 30s beautiful",
+    "long": "",
+    "Style ": "",
+    "row": 14
   }
 ]

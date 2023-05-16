@@ -1,14 +1,27 @@
 [
   [
+    "type",
     "key",
     "val"
   ],
   [
+    "item",
     "jumper",
-    "futuristic hover cars flying through the sky"
+    "futuristic scifi quad copter hover cars flying in the sky"
   ],
   [
+    "item",
     "jumpers",
-    "futuristic hover cars flying through the sky"
+    "futuristic scifi quad copter hover cars flying in the sky"
+  ],
+  [
+    "item",
+    "snowcapitol",
+    "snowglobe of capitol records building "
+  ],
+  [
+    "item",
+    "snowmono",
+    "snowglobe of Monocorp Tower"
   ]
 ]

@@ -5,22 +5,58 @@
     "longDesc"
   ],
   [
-    "filmNoir",
+    "filmnoir",
     "The rain-slicked scene was shrouded in darkness, with a lone figure in a fedora and trench coat standing beneath a flickering neon sign. The scene was straight out of a classic film noir, evoking the dark and brooding style of directors like Hitchcock and Welles",
     "The dimly lit room was bathed in shadows, casting a moody and mysterious atmosphere over the scene. A lone figure, dressed in a long trench coat and fedora, leaned against a brick wall smoking a cigarette, the smoke curling around their face. \nIn the distance, a neon sign flickered, illuminating the rain-soaked pavement below. The scene was reminiscent of a classic film noir, evoking the dark and brooding style of directors like Alfred Hitchcock, Orson Welles, and Billy Wilder."
   ],
   [
-    "retroFuture",
-    "cover illustration for a graphic novel by Jean Giraud Moebius, the Incal, by Syd Mead. retro future stylish drawing",
+    "retrofuture",
+    "cover illustration for a graphic novel by Jean Giraud, by Syd Mead. retro future stylish drawing, Moebius, the Incal",
     "for the cover of a graphic novel \nin a floating city by Jean Giraud Moebius, the Incal, Syd Mead"
   ],
   [
-    "futureNoir",
+    "futurenoir",
     "futuristic film noir anime comic book high contrast illustration",
     "futuristic film noir anime comic book high contrast illustration"
   ],
   [
-    "animeNoir",
+    "animenoir",
     "futuristic film noir anime comic book high contrast illustration style of Akira"
+  ],
+  [
+    "surreal",
+    "surrealist painting by by Salvador Dali, Rene Magritte"
+  ],
+  [
+    "fullanime",
+    "a medium close up drawing anime drawing, thick lines, manga sketch, perfect full facial features, action movie poster, cover image, detailed concept character art facial portrait by thomas cole, greg rutkowski, rhads, peter mohrbacher, simon stalenhag, archillect, soft volumetric lighting, by makoto shinkai, rendered in cryengine, dramatic action pose, visionary scifi art, soviet propaganda poster, in the style of akira, book cover art, protagonist, eora, physical painting, gradients"
+  ],
+  [
+    "anime2",
+    "incredibly powerful Anime Girl, created by Hideaki Anno + Katsuhiro Otomo +Rumiko Takahashi, Movie poster style, box office hit, a masterpiece of storytelling, main character center focus, paint sky, highly detailed 8k"
+  ],
+  [
+    "anime3",
+    "a ultradetailed beautiful panting, by conrad roset, greg rutkowski and makoto shinkai, trending on artstation"
+  ],
+  [
+    "anime4",
+    "synthwve style| illustration of an anime Ghibli Akihiko Yoshida style| woman| cyberpunk| synthwave| sci fi| soft light| finely detailed features| perfect art| highly detailed| elegant"
+  ],
+  [
+    "anime5",
+    "Anime illustration, hard shadows and strong rim light, watercolour, traditional material, art by juan giminez and atey ghailan and sachin teng, {{ flat color }}"
+  ],
+  [
+    "anime6",
+    "synthwve style| portrait of an anime Ghibli Akihiko Yoshida style| woman| cyberpunk| synthwave| sci fi| soft light| finely detailed features| perfect art| highly detailed| elegant"
+  ],
+  [
+    "animblur",
+    "beautiful people, pink glowing hair, wind blowing, big eyes, cute, clear clean face, symmetrical face, blurry background, posing, high contrast, three quartered turned angle, surrounded by flowers + foliage, halo, intricate detail, cinematic, intricate detail, dreamy, ethereal, 4k --test --uplight --ar 4:5"
+  ],
+  [
+    "movie1",
+    "movie still from Hong Kong action movie, bokeh blurred backgrounds, rich saturated colors, film grain sprocket holes, rough film grain, glitch effects, modern digital noise"
   ]
 ]

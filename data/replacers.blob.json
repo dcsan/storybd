@@ -1,35 +1,35 @@
 [
   {
-    "key": "ginger",
+    "key": "tiara",
     "val": "early 30s ethnically ambiguous woman in a red dress wearing Jackie Onassis sunglasses"
   },
   {
     "key": "jamal",
-    "val": "32, burly, black, doo rag, tats, a scar on his neck — a hooded cross between 50 Cent and Mike Tyson"
+    "val": "Young male, burly, black, doo rag, tats, a scar on his neck, 50 Cent and Mike Tyson, wearing a hoodie"
   },
   {
     "key": "hadji",
-    "val": "26, swarthy, angsty, nihilistic heart throb. He wears a black duster that reveals his bare chest, long hair, beard, goth necklaces, facial piercings, and dark eye liner. He’s strung out — smoking and drinking from a sake flask."
+    "val": "young indian man, swarthy, heart throb, handsome looks like Keanu Reeves"
   },
   {
     "key": "roxie",
-    "val": "19, biracial, magnetic presence"
+    "val": "Young woman 19, biracial, magnetic presence, a silvery white bob wig with wrap-around sunglasses"
   },
   {
     "key": "ceo",
-    "val": "40s, a fierce mix of Missy Elliot’s gold track suit style, gold crown, shutter shades, and Wanda Sykes don’t-mess attitude"
+    "val": "Woman 40s, a fierce mix of Missy Elliot’s gold track suit style, gold crown, shutter shades, and Wanda Sykes don’t-mess attitude"
   },
   {
     "key": "vivian",
-    "val": "20s/30s, ambiguous race, a dangerous allure in secretary chic"
+    "val": "Woman 20s/30s, ambiguous race, a dangerous allure in secretary chic"
   },
   {
-    "key": "hitSquad",
-    "val": "(20s, any ethnicity, striking killing machines dressed in sleek outfits)"
+    "key": "hitsquad",
+    "val": "(20s, any ethnicity, striking killing machines dressed in sleek power suits"
   },
   {
     "key": "mysterioso",
-    "val": "a mysterious FIGURE, face hidden in a velvet hooded robe."
+    "val": "a mysterious FIGURE, face completely hidden in a velvet hooded robe"
   },
   {
     "key": "dj",
@@ -37,55 +37,67 @@
   },
   {
     "key": "troopers",
-    "val": "A squad of asian troopers wearing masks"
+    "val": "A squad of troopers wearing black helmets and balaclava masks"
   },
   {
     "key": "narrator",
     "val": "(Narrator)"
   },
   {
-    "key": "boardMembers",
+    "key": "boardmembers",
     "val": "20s-50s, mix genders and ethnicities, epitomizing corporate cool with deadpan stares, smoldering gazes and perfectly coiffed hair"
   },
   {
-    "key": "capitolExt",
-    "val": "dfadf"
+    "key": "ringmaster",
+    "val": "30s, man, handsome wearing red tail coat with chain closure, vest dickey with attached bow tie, top hat) appears and hypes the lonesome crowd."
   },
   {
-    "key": "kioskExt",
-    "val": "kjhadfs"
+    "key": "",
+    "val": "Scruffy, ragtag cosplay performers - most likely sex workers - wear green screen suits with surgical gloves, respiratory masks and minimal costume accessories"
   },
   {
-    "key": "hosExt",
-    "val": "In front of the building’s Art Deco rotunda and towering curved facade, a media circus of paparazzi, reporters and fans gather behind barricades."
+    "key": "",
+    "val": "Thai ladyboy 30s beautiful"
   },
   {
-    "key": "hosSteps",
+    "key": "capitolext",
+    "val": "CAPITOL RECORDS TOWER - decrepit and abandoned - leans precariously in the background."
+  },
+  {
+    "key": "kioskext",
+    "val": "Gold interactive futuristic digital kiosk"
+  },
+  {
+    "key": "hosext",
+    "val": "In front of the building’s Art Deco rotunda and towering curved facade,"
+  },
+  {
+    "key": "hossteps",
     "val": "The steps of the Hall of Justice"
   },
   {
-    "key": "monocorpExt",
+    "key": "monocorpext",
     "val": "The awe-inspiring MONOCORP Tower is a 91-story, golden, art deco tapered obelisk. On the building’s illuminated ornamental CROWN, a giant four-sided jumbotron video screen broadcasts a montage of Monocorp products."
   },
   {
-    "key": "monocorpPenthouse",
+    "key": "monocorppenthouse",
     "val": "Monocorp’s penthouse media center overlooks the city. CIGARETTE SMOKE wafts in the air. a raised stage surrounded by video screens"
   },
   {
-    "key": "",
-    "val": "The club features a cheaply designed fiberglass, foam alien garden set design. It’s a faux bio-luminescent grassland teeming with “exotic” plants and underwater coral reefs and plankton. More depressing than magical."
+    "key": "sssint",
+    "val": "The dark shadowy club features cheaply designed stage props"
   },
   {
-    "key": "",
-    "val": ""
+    "key": "boardroomint",
+    "val": "Corporate boardroom with full screen video presentation"
   },
   {
-    "key": "ConferenceRoom",
-    "val": "The conference room is dark and accented by ambient lighting. A glowing, circular WAR TABLE is in the center surrounded by VIDEO SCREEN walls that loop ultra stylish Monocorp consumer ads for everything from weapons to breakfast cereal."
+    "key": "conferenceroom",
+    "val": "The conference room is dark and accented by ambient lighting. A glowing, circular WAR TABLE is in the center surrounded by VIDEO SCREEN walls with ads of Roxie Star"
   },
   {
     "key": "prisonext",
-    "val": "In the heart of Los Angeles, a gutted Hilton Hotel has been converted into a prison. Inside the perimeter of barbed wire is the sign “LA Hilton Central Prison.”"
+    "val": "Decrepit Hotel prison, barbed wire neon sign"
   },
   {
     "key": "opiumint",
@@ -96,31 +108,79 @@
     "val": "Siamese Sex Show - an augmented reality sex club. Just outside the entrance is the hologram of a creepy vintage HOLLYWOOD MOVIE USHER (white, 23, ghoulish face with classic jacket, trousers, hat and flashlight.) Ash falls like snowflakes."
   },
   {
-    "key": "",
+    "key": "wetmarket",
     "val": "a BAZAAR with CHRISTMAS LIGHTS strung up over WET MARKETS and RATIONING BOOTHS."
   },
   {
-    "key": "filmNoir",
+    "key": "hosint",
+    "val": "Art-deco inspired interior combines flickering lights, twisted and distorted geometric patterns, and shadows."
+  },
+  {
+    "key": "filmnoir",
     "val": "The rain-slicked scene was shrouded in darkness, with a lone figure in a fedora and trench coat standing beneath a flickering neon sign. The scene was straight out of a classic film noir, evoking the dark and brooding style of directors like Hitchcock and Welles"
   },
   {
-    "key": "retroFuture",
-    "val": "cover illustration for a graphic novel by Jean Giraud Moebius, the Incal, by Syd Mead. retro future stylish drawing"
+    "key": "retrofuture",
+    "val": "cover illustration for a graphic novel by Jean Giraud, by Syd Mead. retro future stylish drawing, Moebius, the Incal"
   },
   {
-    "key": "futureNoir",
+    "key": "futurenoir",
     "val": "futuristic film noir anime comic book high contrast illustration"
   },
   {
-    "key": "animeNoir",
+    "key": "animenoir",
     "val": "futuristic film noir anime comic book high contrast illustration style of Akira"
   },
   {
+    "key": "surreal",
+    "val": "surrealist painting by by Salvador Dali, Rene Magritte"
+  },
+  {
+    "key": "fullanime",
+    "val": "a medium close up drawing anime drawing, thick lines, manga sketch, perfect full facial features, action movie poster, cover image, detailed concept character art facial portrait by thomas cole, greg rutkowski, rhads, peter mohrbacher, simon stalenhag, archillect, soft volumetric lighting, by makoto shinkai, rendered in cryengine, dramatic action pose, visionary scifi art, soviet propaganda poster, in the style of akira, book cover art, protagonist, eora, physical painting, gradients"
+  },
+  {
+    "key": "anime2",
+    "val": "incredibly powerful Anime Girl, created by Hideaki Anno + Katsuhiro Otomo +Rumiko Takahashi, Movie poster style, box office hit, a masterpiece of storytelling, main character center focus, paint sky, highly detailed 8k"
+  },
+  {
+    "key": "anime3",
+    "val": "a ultradetailed beautiful panting, by conrad roset, greg rutkowski and makoto shinkai, trending on artstation"
+  },
+  {
+    "key": "anime4",
+    "val": "synthwve style| illustration of an anime Ghibli Akihiko Yoshida style| woman| cyberpunk| synthwave| sci fi| soft light| finely detailed features| perfect art| highly detailed| elegant"
+  },
+  {
+    "key": "anime5",
+    "val": "Anime illustration, hard shadows and strong rim light, watercolour, traditional material, art by juan giminez and atey ghailan and sachin teng, {{ flat color }}"
+  },
+  {
+    "key": "anime6",
+    "val": "synthwve style| portrait of an anime Ghibli Akihiko Yoshida style| woman| cyberpunk| synthwave| sci fi| soft light| finely detailed features| perfect art| highly detailed| elegant"
+  },
+  {
+    "key": "animblur",
+    "val": "beautiful people, pink glowing hair, wind blowing, big eyes, cute, clear clean face, symmetrical face, blurry background, posing, high contrast, three quartered turned angle, surrounded by flowers + foliage, halo, intricate detail, cinematic, intricate detail, dreamy, ethereal, 4k --test --uplight --ar 4:5"
+  },
+  {
+    "key": "movie1",
+    "val": "movie still from Hong Kong action movie, bokeh blurred backgrounds, rich saturated colors, film grain sprocket holes, rough film grain, glitch effects, modern digital noise"
+  },
+  {
     "key": "jumper",
-    "val": "futuristic hover cars flying through the sky"
+    "val": "futuristic scifi quad copter hover cars flying in the sky"
   },
   {
     "key": "jumpers",
-    "val": "futuristic hover cars flying through the sky"
+    "val": "futuristic scifi quad copter hover cars flying in the sky"
+  },
+  {
+    "key": "snowcapitol",
+    "val": "snowglobe of capitol records building"
+  },
+  {
+    "key": "snowmono",
+    "val": "snowglobe of Monocorp Tower"
   }
 ]
