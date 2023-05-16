@@ -5,14 +5,21 @@
     "actor",
     "description",
     "dialog",
+    "drawing-draft",
     "drawing",
+    "edited",
     "caption",
     "lyrics "
   ],
   [
     "Ginger Intro",
     "hall-of-shame.ext",
-    "Narrator"
+    "Narrator",
+    "",
+    "",
+    "",
+    "",
+    "FALSE"
   ],
   [
     "",
@@ -20,7 +27,9 @@
     "Ginger",
     "Ginger takes a huff on her cigarette and looks around",
     "hi Malika",
-    "portrait close up [hosExt] [ginger] smoking a cigarette"
+    "at [hosExt] portrait of [ginger] smoking a cigarette",
+    "at [hosExt] portrait of [ginger] smoking a cigarette",
+    "FALSE"
   ],
   [
     "",
@@ -28,7 +37,9 @@
     "Ginger",
     "Ginger leaves the courtroom in a huff, flanked by her lawyers. ",
     "",
-    "[ginger] flanked by her lawyers"
+    "[ginger] flanked by her lawyers",
+    "[ginger] flanked by her lawyers",
+    "FALSE"
   ],
   [
     "",
@@ -36,20 +47,29 @@
     "",
     "Ginger is met with screams and heckles. ",
     "",
-    "[ginger] at the [hosSteps] surrounded by reporters and paparazzi"
+    "[ginger] at the [hosSteps] surrounded by reporters and paparazzi photographers",
+    "[ginger] at the [hosSteps] surrounded by reporters and paparazzi photographers",
+    "FALSE"
   ],
   [
     "",
     "",
     "",
-    "She pushes past her two lawyers to a mic-covered podium. Hecklers boo. Her lawyers"
+    "She pushes past her two lawyers to a mic-covered podium. Hecklers boo. Her lawyers",
+    "",
+    "",
+    "",
+    "FALSE"
   ],
   [
     "",
     "",
     "Ginger",
     "",
-    "Move over, boys. They want to see me. "
+    "Move over, boys. They want to see me. ",
+    "",
+    "",
+    "FALSE"
   ],
   [
     "",
@@ -58,6 +78,8 @@
     "",
     "",
     "",
+    "",
+    "FALSE",
     "",
     "I PAID THE COST TO GLOSS I’M THE GREATEST \rPLAYED ME CAUSE I’M FAMOUS\rAN EASY BITCH TO FRAME\rwince. \rGINGER\rTHEY SAY I’M LOST DIPPED IN SAUCE I’M SHAMELESS\rTHE ACCUSATION’S HEINOUS\rVICTIM OF THE GAME"
   ],
@@ -65,7 +87,11 @@
     "",
     "",
     "Ginger",
-    "Ginger blows kisses to hecklers as she descends the stairs to a waiting shimmering gold Monocorp JUMPER — an autonomous quadcopter VTOL passenger drone covered in a matrix of marquee bulbs that move in abstract patterns. futuristic film noir anime comic book high contrast illustration"
+    "Ginger blows kisses to hecklers as she descends the stairs to a waiting shimmering gold Monocorp JUMPER — an autonomous quadcopter VTOL passenger drone covered in a matrix of marquee bulbs that move in abstract patterns. futuristic film noir anime comic book high contrast illustration",
+    "",
+    "",
+    "",
+    "FALSE"
   ],
   [
     "",
@@ -73,15 +99,19 @@
     "Ginger",
     "Ginger signs an autograph for a young seeker, who - in the chaos - is left holding Ginger’s lit cigarette.",
     "",
-    "[ginger] at the [hosSteps] signing an autograph"
+    "[ginger] at the [hosSteps] signing an autograph",
+    "[ginger] at the [hosSteps] signing an autograph",
+    "FALSE"
   ],
   [
     "Hopper 1",
     "front-of-kiosk.ext",
     "Mysterioso ",
     "",
-    "fssgdfsdgf",
-    "Snow spirals down from the heavens on the iconic CAPITOL RECORDS BUILDING in Los Angeles. \n"
+    "",
+    "Snow spirals down from the heavens on the iconic CAPITOL RECORDS BUILDING in Los Angeles. \n",
+    "Snow spirals down from the heavens on the iconic CAPITOL RECORDS BUILDING in Los Angeles. \n",
+    "FALSE"
   ],
   [
     "",
@@ -89,7 +119,9 @@
     "",
     "",
     "",
-    "a mysterious person in a velvet hooded robe holds a snow globe in the palm of their hand. inside the snow globe is the iconic CAPITOL RECORDS BUILDING.\n\nfuturistic film noir anime comic book high contrast illustration"
+    "a mysterious person in a velvet hooded robe holds a snow globe in the palm of their hand. inside the snow globe is the iconic CAPITOL RECORDS BUILDING.\n\nfuturistic film noir anime comic book high contrast illustration",
+    "a mysterious person in a velvet hooded robe holds a snow globe in the palm of their hand. inside the snow globe is the iconic CAPITOL RECORDS BUILDING.",
+    "TRUE"
   ],
   [
     "",
@@ -97,26 +129,135 @@
     "",
     "",
     "",
-    "CAPITOL RECORDS TOWER - decrepit and abandoned - leans precariously in the background."
+    "CAPITOL RECORDS TOWER - decrepit and abandoned - leans precariously in the background.",
+    "CAPITOL RECORDS TOWER - decrepit and abandoned - leans precariously in the background.",
+    "FALSE"
   ],
-  [],
-  [],
-  [],
-  [],
-  [],
-  [],
-  [],
-  [],
-  [],
-  [],
-  [],
+  [
+    "Jamal",
+    "prison.ext",
+    "Jamal ",
+    "Jamal pulls out an old photo of him and his girlfriend. In his denim coat, he, too, finds a snow globe: “Life is like a snow globe - it’s most beautiful when shaken up.”",
+    "",
+    "Jamal pulls out an old photo of him and his girlfriend/Jamal finds a snow globe of Monocorp Tower",
+    "Jamal pulls out an old photo of him and his girlfriend",
+    "TRUE"
+  ],
+  [
+    "",
+    "",
+    "",
+    "He walks through a BAZAAR with CHRISTMAS LIGHTS strung up over WET MARKETS and RATIONING BOOTHS. ",
+    "",
+    "Jamal walks through a BAZAAR with CHRISTMAS LIGHTS strung up over WET MARKETS and RATIONING BOOTHS. \n",
+    "[Jamal] walks through a BAZAAR with CHRISTMAS LIGHTS strung up over WET MARKETS and RATIONING BOOTHS. \n",
+    "TRUE"
+  ],
+  [
+    "",
+    "",
+    "",
+    "A troupe of Mexican performers hunched over dressed in sombreros with streamers, ponchos and masks stomp their feet and canes in a rhythmic do-si-do dance to the beat.",
+    "",
+    "A troupe of Mexican performers hunched over dressed in sombreros with streamers, ponchos and masks stomp their feet and canes in a rhythmic do-si-do dance to the beat.\n",
+    "A troupe of Mexican performers hunched over dressed in sombreros with streamers, ponchos and masks stomp their feet and canes in a rhythmic do-si-do dance to the beat.\n",
+    "FALSE"
+  ],
+  [
+    "",
+    "",
+    "",
+    "A HOVER SCOOTER gang, led by a thug with a checkerboard face tattoo, prowls through the smog looking for victims. ",
+    "",
+    "A HOVER SCOOTER gang on floating skateboards prowl through the smog looking for victims to rob\n ",
+    "A HOVER SCOOTER gang on floating skateboards prowl through the smog looking for victims to rob\n ",
+    "FALSE"
+  ],
+  [
+    "",
+    "",
+    "",
+    "Jamal is amazed at the Jumpers in the sky. A lot has changed in the ten years he was inside. ",
+    "",
+    "Jamal iooks up at the Jumpers in the sky.",
+    "[Jamal] iooks up at the [Jumpers] in the sky",
+    "TRUE"
+  ],
+  [
+    "",
+    "",
+    "",
+    "Two turban-wearing DRUG DEALERS twirl glowing umbrellas that illuminate their ghoulish faces. One opens up his trench coat and reveals drugs. Jamal snatches the bag but doesn’t pay. He’s too big to stop.",
+    "",
+    "Jamal is approached by two DRUG DEALERS who wear large turbans and twirl glowing umbrellas that illuminate their ghoulish faces. ",
+    "Jamal is approached by two DRUG DEALERS who wear large turbans and twirl glowing umbrellas that illuminate their ghoulish faces. ",
+    "FALSE"
+  ],
+  [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "FALSE",
+    "",
+    "MAN, YA’LL CAN’T STOP ME DON’T EVEN TRY IT \rI GET CRUNK GO WILD AS A RIOT \rVIOLENT I DON’T HIDE IT I’M A VILLAIN WHY DENY IT"
+  ],
+  [
+    "",
+    "",
+    "",
+    "A scantily-clad, mask-wearing lady sells betel nuts from a neon-lit glass kiosk. She beckons a passing Jamal.",
+    "",
+    "A scantily-clad, mask-wearing lady sells betel nuts from a neon-lit glass kiosk beckons Jamal",
+    "A scantily-clad, mask-wearing lady sells betel nuts from a neon-lit glass kiosk beckons Jamal",
+    "FALSE"
+  ],
+  [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "FALSE",
+    "",
+    "PUSSY COME FREE, HO, WHY IM GONNA BUY IT?"
+  ],
+  [
+    "",
+    "",
+    "",
+    "The checkerboard face thug snatches the purse from the betel nut girl. Jamal violently clotheslines him in one motion. Jamal tosses the purse back to the girl then strips the thug of his Money Green Chinchilla fur jacket. ",
+    "",
+    "Jamal violently clotheslines a thug with a checkerboard face tattoo on a hover scooter/ Jamal strips the thug of his Money Green Chinchilla fur jacket. ",
+    "Jamal violently clotheslines a thug with a checkerboard face tattoo on a hover scooter",
+    "TRUE"
+  ],
+  [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "FALSE",
+    "",
+    "SINISTER, PIMP GAME LIKE A MINISTER\rMORTAL KOMBAT, MOUTH PIECE, I’M A FINISHER –\rFINITO, SAYONARA, ADIOS –\rAFTER I GET ZIP AND SOME DRIP THEN I’M GHOST"
+  ],
   [
     "Board meeting",
     "monocorp-penthouse",
     "",
     "",
     "",
-    "[monocorp-penthouse] exterior shot"
+    "[monocorp-penthouse] exterior shot",
+    "[monocorp-penthouse] exterior shot",
+    "FALSE"
   ],
   [
     "",
@@ -124,9 +265,22 @@
     "",
     "BOARD MEMBERS (20s-50s, mix genders and ethnicities, epitomizing corporate cool with deadpan stares, smoldering gazes and perfectly coiffed hair) dance",
     "",
-    "[boardMembers] dancing",
-    "board members",
-    "BOARD\rWE’RE GONNA DRINK UNTIL WE’RE DRUNK\rGONNA PARTY ‘TIL THE BOARD ROOM’S CRUNK\rGONNA SAY WHAT WE WANT\r’CAUSE WE DON’T GIVE A FUCK"
+    "[boardMembers] dancing / BoardMembers singing.",
+    "[boardMembers] singing and dancing",
+    "TRUE",
+    "board members"
+  ],
+  [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "FALSE",
+    "",
+    "BOARD WE’RE GONNA DRINK UNTIL WE’RE DRUNK GONNA PARTY ‘TIL THE BOARD ROOM’S CRUNK GONNA SAY WHAT WE WANT ’CAUSE WE DON’T GIVE A FUCK"
   ],
   [
     "",
@@ -134,13 +288,278 @@
     "",
     "They remove their hooded robes to reveal power suits. They dance in unison in front of a raised stage surrounded by video screens",
     "",
-    "",
+    "Boardmembers remove their hooded robes to reveal power suits",
+    "[boardMembers] remove their hooded robes to reveal power suits",
+    "TRUE",
     "Monocorp's Board celebrate their growing global control"
   ],
   [
     "",
     "",
     "",
-    "VIDEO: Revenue numbers and pie charts highlighting Monocorp’s financial success flash on screen."
+    "VIDEO: Revenue numbers and pie charts highlighting Monocorp’s financial success flash on screen.",
+    "",
+    "Boardmembers revel in the revenue numbers and pie charts that flash on a screen, highlighting Monocorp’s financial success.",
+    "[boardMembers] looking at a presentation of pie charts on a big screen, showing financial success.",
+    "TRUE"
+  ],
+  [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "FALSE"
+  ],
+  [
+    "Hadji ",
+    "",
+    "",
+    "He’s strung out — smoking and drinking from a sake flask.",
+    "",
+    "Hadji is strung out, depressed, — smoking and drinking from a huka in a huka bar.",
+    "[hadji] is strung out, depressed, — smoking and drinking from a huka in a huka bar.",
+    "TRUE"
+  ],
+  [
+    "",
+    "",
+    "",
+    "He holds up a card and - sleight of hand - it disappear.",
+    "",
+    "Hadji holds up a playing card and - sleight of hand - it disappear.",
+    "[hadji] holds up a playing card and - sleight of hand - it disappears",
+    "TRUE"
+  ],
+  [
+    "",
+    "",
+    "Hadji",
+    "",
+    "For my next trick, I’ll need a condom and a female volunteer.",
+    "",
+    "",
+    "FALSE",
+    "For my next trick, I’ll need a condom and a female volunteer."
+  ],
+  [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "FALSE",
+    "",
+    "I CAN MAKE CHICKS TURN TRICKS LIKE MAGIC\rRUN GAME AUTOMATIC \rTHEY COME FROM CASTE TO CASTE\rI MAKE ‘EM YEARN ‘TIL THEY BURN LIKE ADDICTS\rTIL THEY BEG TO HAVE IT\rTHE HIGH NEVER LAST"
+  ],
+  [
+    "",
+    "",
+    "",
+    "The groupie slips a snow globe into Hadji’s coat. ",
+    "",
+    "",
+    "",
+    "FALSE"
+  ],
+  [
+    "",
+    "",
+    "",
+    "Two guards tap their PAL headpieces and pick up Hadji, and drag him to the Jumper outside.",
+    "",
+    "",
+    "Two bar guards drag Hadji out of the club/ The Two guards put Hadji into a gold flying quadcopter outside",
+    "TRUE",
+    "Two bar guards drag Hadji out of the club/ The Two guards put Hadji into a gold flying quadcopter outside"
+  ],
+  [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "FALSE"
+  ],
+  [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "FALSE"
+  ],
+  [
+    "SSS-Scene",
+    "SSS-int.",
+    "",
+    "Tiara ducks inside.",
+    "",
+    "",
+    "",
+    "FALSE"
+  ],
+  [
+    "",
+    "",
+    "",
+    "The club features a cheaply designed fiberglass, foam alien garden set design. It’s a faux bio-luminescent grassland teeming with “exotic” plants and underwater coral reefs and plankton. More depressing than magical.",
+    "",
+    "",
+    "The club features a cheaply designed fiberglass, foam alien garden set design. It’s a faux bio-luminescent grassland teeming with “exotic” plants and underwater coral reefs and plankton. More depressing than magical.",
+    "TRUE",
+    "The club features a cheaply designed fiberglass, foam alien garden set design. It’s a faux bio-luminescent grassland teeming with “exotic” plants and underwater coral reefs and plankton. More depressing than magical."
+  ],
+  [
+    "",
+    "",
+    "",
+    "The club’s scruffy, ragtag performers - most likely sex workers - wear green screen suits with surgical gloves, respiratory masks and minimal costume accessories: ears, butt plugs attached to rubber tails, alien headgear, strap-on dildos and artificial pussies. ",
+    "",
+    "",
+    "The club’s scruffy, ragtag cosplay performers wear green screen suits with surgical gloves, respiratory masks and minimal costume accessories: ears, butt plugs attached to rubber tails, alien headgear, strap-on dildos and artificial pussies. ",
+    "TRUE",
+    "The club’s scruffy, ragtag cosplay performers wear green screen suits with surgical gloves, respiratory masks and minimal costume accessories: ears, butt plugs attached to rubber tails, alien headgear, strap-on dildos and artificial pussies. "
+  ],
+  [
+    "",
+    "",
+    "",
+    "An avatar RINGMASTER (30s, man, handsome wearing red tail coat with chain closure, vest dickey with attached bow tie, top hat) appears and hypes the lonesome crowd.",
+    "",
+    "",
+    "",
+    "FALSE"
+  ],
+  [
+    "",
+    "",
+    "",
+    "The PROPRIETOR (THAI LADYBOY, 30s, beautiful) hands Tiara an old Oculus-like tech headset like loaner shoes at a bowling alley.",
+    "",
+    "",
+    "",
+    "FALSE"
+  ],
+  [
+    "",
+    "",
+    "",
+    "The DJ (20-something, tall, piercing blue eyes and long hair) put a needle on the record. He stares at Tiara.\nTogether the performers dance and sing a sorta Lady Marmalade-like anthem that belies their weariness and despair.",
+    "",
+    "",
+    "",
+    "FALSE"
+  ],
+  [
+    "",
+    "",
+    "",
+    "From the POV of the AR headset, the club’s crude sets transform into something magical, and shaggy cosplay performers now appear as fully-realized anthropomorphic animals, avatars, aliens, and anime characters. It’s like a perverse cartoon that’s magnificently come to life!",
+    "",
+    "",
+    "",
+    "FALSE"
+  ],
+  [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "FALSE",
+    "",
+    "ROCK THE SIAMESE SEX SHOW\nCOME IN TAKE OF YOUR CLOTHES\nTAKE YOUR TIME LET'S GO SLOW\nNO ONE WILL EVER KNOW\nCOME INDULGE YOUR FANTASIES\nYOUR SECRET'S SAFE WITH ME\nYOU'LL CREAM IN ECSTASY \nSATISFACTION GUARANTEED "
+  ],
+  [
+    "",
+    "",
+    "",
+    "",
+    "California rocks like Bangkok!",
+    "",
+    "",
+    "FALSE"
+  ],
+  [
+    "",
+    "",
+    "",
+    "Without the headset (a true case of rose-colored glasses) Tiara watches the cold reality of jaded performers giving perfunctory lap dances and gloved hand jobs to the sad and lonely headset-wearing female and male patrons - miserable social outliers you might find in a strip club.",
+    "",
+    "",
+    "",
+    "FALSE"
+  ],
+  [],
+  [],
+  [],
+  [
+    "ConferenceRoom",
+    "",
+    "",
+    "Tiara, Hadji and Jamal sit eyeing each other. "
+  ],
+  [
+    "",
+    "",
+    "",
+    "Jamal has his feet up on the table with a joint in his mouth. His face is partially hidden in shadows. "
+  ],
+  [
+    "",
+    "",
+    "",
+    "Hadji drinks from his flask. "
+  ],
+  [
+    "",
+    "",
+    "",
+    "Tiara, still in sunglasses, taps her leg, lights a cigarette and - with a french inhale - starts the convo."
+  ],
+  [
+    "",
+    "",
+    "",
+    "",
+    "TIARA  \nI hope this doesn't take long. I'm in the middle of shooting."
+  ],
+  [
+    "",
+    "",
+    "",
+    "",
+    "JAMAL\rShooting? I thought poison was your “trade murk”."
+  ],
+  [
+    "",
+    "",
+    "",
+    "",
+    "TIARA\rExcuse me? You know me? "
+  ],
+  [
+    "",
+    "",
+    "",
+    "Jamal leans forward into the light, gold tooth gleaming."
+  ],
+  [
+    "",
+    "",
+    "",
+    "",
+    "JAMAL\rI know ya moved grande dame’s name from the marquee to a tombstone. Changed her wonderful life from an “is” to a “was”. "
   ]
 ]

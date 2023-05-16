@@ -2,7 +2,12 @@
   {
     "name": "Ginger Intro",
     "location": "hall-of-shame.ext",
-    "actor": "Narrator"
+    "actor": "Narrator",
+    "description": "",
+    "dialog": "",
+    "drawing-draft": "",
+    "drawing": "",
+    "edited": "FALSE"
   },
   {
     "name": "",
@@ -10,7 +15,9 @@
     "actor": "Ginger",
     "description": "Ginger takes a huff on her cigarette and looks around",
     "dialog": "hi Malika",
-    "drawing": "portrait close up [hosExt] [ginger] smoking a cigarette"
+    "drawing-draft": "at [hosExt] portrait of [ginger] smoking a cigarette",
+    "drawing": "at [hosExt] portrait of [ginger] smoking a cigarette",
+    "edited": "FALSE"
   },
   {
     "name": "",
@@ -18,7 +25,9 @@
     "actor": "Ginger",
     "description": "Ginger leaves the courtroom in a huff, flanked by her lawyers. ",
     "dialog": "",
-    "drawing": "[ginger] flanked by her lawyers"
+    "drawing-draft": "[ginger] flanked by her lawyers",
+    "drawing": "[ginger] flanked by her lawyers",
+    "edited": "FALSE"
   },
   {
     "name": "",
@@ -26,20 +35,29 @@
     "actor": "",
     "description": "Ginger is met with screams and heckles. ",
     "dialog": "",
-    "drawing": "[ginger] at the [hosSteps] surrounded by reporters and paparazzi"
+    "drawing-draft": "[ginger] at the [hosSteps] surrounded by reporters and paparazzi photographers",
+    "drawing": "[ginger] at the [hosSteps] surrounded by reporters and paparazzi photographers",
+    "edited": "FALSE"
   },
   {
     "name": "",
     "location": "",
     "actor": "",
-    "description": "She pushes past her two lawyers to a mic-covered podium. Hecklers boo. Her lawyers"
+    "description": "She pushes past her two lawyers to a mic-covered podium. Hecklers boo. Her lawyers",
+    "dialog": "",
+    "drawing-draft": "",
+    "drawing": "",
+    "edited": "FALSE"
   },
   {
     "name": "",
     "location": "",
     "actor": "Ginger",
     "description": "",
-    "dialog": "Move over, boys. They want to see me. "
+    "dialog": "Move over, boys. They want to see me. ",
+    "drawing-draft": "",
+    "drawing": "",
+    "edited": "FALSE"
   },
   {
     "name": "",
@@ -47,7 +65,9 @@
     "actor": "",
     "description": "",
     "dialog": "",
+    "drawing-draft": "",
     "drawing": "",
+    "edited": "FALSE",
     "caption": "",
     "lyrics ": "I PAID THE COST TO GLOSS I’M THE GREATEST \rPLAYED ME CAUSE I’M FAMOUS\rAN EASY BITCH TO FRAME\rwince. \rGINGER\rTHEY SAY I’M LOST DIPPED IN SAUCE I’M SHAMELESS\rTHE ACCUSATION’S HEINOUS\rVICTIM OF THE GAME"
   },
@@ -55,7 +75,11 @@
     "name": "",
     "location": "",
     "actor": "Ginger",
-    "description": "Ginger blows kisses to hecklers as she descends the stairs to a waiting shimmering gold Monocorp JUMPER — an autonomous quadcopter VTOL passenger drone covered in a matrix of marquee bulbs that move in abstract patterns. futuristic film noir anime comic book high contrast illustration"
+    "description": "Ginger blows kisses to hecklers as she descends the stairs to a waiting shimmering gold Monocorp JUMPER — an autonomous quadcopter VTOL passenger drone covered in a matrix of marquee bulbs that move in abstract patterns. futuristic film noir anime comic book high contrast illustration",
+    "dialog": "",
+    "drawing-draft": "",
+    "drawing": "",
+    "edited": "FALSE"
   },
   {
     "name": "",
@@ -63,15 +87,19 @@
     "actor": "Ginger",
     "description": "Ginger signs an autograph for a young seeker, who - in the chaos - is left holding Ginger’s lit cigarette.",
     "dialog": "",
-    "drawing": "[ginger] at the [hosSteps] signing an autograph"
+    "drawing-draft": "[ginger] at the [hosSteps] signing an autograph",
+    "drawing": "[ginger] at the [hosSteps] signing an autograph",
+    "edited": "FALSE"
   },
   {
     "name": "Hopper 1",
     "location": "front-of-kiosk.ext",
     "actor": "Mysterioso ",
     "description": "",
-    "dialog": "fssgdfsdgf",
-    "drawing": "Snow spirals down from the heavens on the iconic CAPITOL RECORDS BUILDING in Los Angeles. \n"
+    "dialog": "",
+    "drawing-draft": "Snow spirals down from the heavens on the iconic CAPITOL RECORDS BUILDING in Los Angeles. \n",
+    "drawing": "Snow spirals down from the heavens on the iconic CAPITOL RECORDS BUILDING in Los Angeles. \n",
+    "edited": "FALSE"
   },
   {
     "name": "",
@@ -79,7 +107,9 @@
     "actor": "",
     "description": "",
     "dialog": "",
-    "drawing": "a mysterious person in a velvet hooded robe holds a snow globe in the palm of their hand. inside the snow globe is the iconic CAPITOL RECORDS BUILDING.\n\nfuturistic film noir anime comic book high contrast illustration"
+    "drawing-draft": "a mysterious person in a velvet hooded robe holds a snow globe in the palm of their hand. inside the snow globe is the iconic CAPITOL RECORDS BUILDING.\n\nfuturistic film noir anime comic book high contrast illustration",
+    "drawing": "a mysterious person in a velvet hooded robe holds a snow globe in the palm of their hand. inside the snow globe is the iconic CAPITOL RECORDS BUILDING.",
+    "edited": "TRUE"
   },
   {
     "name": "",
@@ -87,26 +117,135 @@
     "actor": "",
     "description": "",
     "dialog": "",
-    "drawing": "CAPITOL RECORDS TOWER - decrepit and abandoned - leans precariously in the background."
+    "drawing-draft": "CAPITOL RECORDS TOWER - decrepit and abandoned - leans precariously in the background.",
+    "drawing": "CAPITOL RECORDS TOWER - decrepit and abandoned - leans precariously in the background.",
+    "edited": "FALSE"
   },
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
-  {},
+  {
+    "name": "Jamal",
+    "location": "prison.ext",
+    "actor": "Jamal ",
+    "description": "Jamal pulls out an old photo of him and his girlfriend. In his denim coat, he, too, finds a snow globe: “Life is like a snow globe - it’s most beautiful when shaken up.”",
+    "dialog": "",
+    "drawing-draft": "Jamal pulls out an old photo of him and his girlfriend/Jamal finds a snow globe of Monocorp Tower",
+    "drawing": "Jamal pulls out an old photo of him and his girlfriend",
+    "edited": "TRUE"
+  },
+  {
+    "name": "",
+    "location": "",
+    "actor": "",
+    "description": "He walks through a BAZAAR with CHRISTMAS LIGHTS strung up over WET MARKETS and RATIONING BOOTHS. ",
+    "dialog": "",
+    "drawing-draft": "Jamal walks through a BAZAAR with CHRISTMAS LIGHTS strung up over WET MARKETS and RATIONING BOOTHS. \n",
+    "drawing": "[Jamal] walks through a BAZAAR with CHRISTMAS LIGHTS strung up over WET MARKETS and RATIONING BOOTHS. \n",
+    "edited": "TRUE"
+  },
+  {
+    "name": "",
+    "location": "",
+    "actor": "",
+    "description": "A troupe of Mexican performers hunched over dressed in sombreros with streamers, ponchos and masks stomp their feet and canes in a rhythmic do-si-do dance to the beat.",
+    "dialog": "",
+    "drawing-draft": "A troupe of Mexican performers hunched over dressed in sombreros with streamers, ponchos and masks stomp their feet and canes in a rhythmic do-si-do dance to the beat.\n",
+    "drawing": "A troupe of Mexican performers hunched over dressed in sombreros with streamers, ponchos and masks stomp their feet and canes in a rhythmic do-si-do dance to the beat.\n",
+    "edited": "FALSE"
+  },
+  {
+    "name": "",
+    "location": "",
+    "actor": "",
+    "description": "A HOVER SCOOTER gang, led by a thug with a checkerboard face tattoo, prowls through the smog looking for victims. ",
+    "dialog": "",
+    "drawing-draft": "A HOVER SCOOTER gang on floating skateboards prowl through the smog looking for victims to rob\n ",
+    "drawing": "A HOVER SCOOTER gang on floating skateboards prowl through the smog looking for victims to rob\n ",
+    "edited": "FALSE"
+  },
+  {
+    "name": "",
+    "location": "",
+    "actor": "",
+    "description": "Jamal is amazed at the Jumpers in the sky. A lot has changed in the ten years he was inside. ",
+    "dialog": "",
+    "drawing-draft": "Jamal iooks up at the Jumpers in the sky.",
+    "drawing": "[Jamal] iooks up at the [Jumpers] in the sky",
+    "edited": "TRUE"
+  },
+  {
+    "name": "",
+    "location": "",
+    "actor": "",
+    "description": "Two turban-wearing DRUG DEALERS twirl glowing umbrellas that illuminate their ghoulish faces. One opens up his trench coat and reveals drugs. Jamal snatches the bag but doesn’t pay. He’s too big to stop.",
+    "dialog": "",
+    "drawing-draft": "Jamal is approached by two DRUG DEALERS who wear large turbans and twirl glowing umbrellas that illuminate their ghoulish faces. ",
+    "drawing": "Jamal is approached by two DRUG DEALERS who wear large turbans and twirl glowing umbrellas that illuminate their ghoulish faces. ",
+    "edited": "FALSE"
+  },
+  {
+    "name": "",
+    "location": "",
+    "actor": "",
+    "description": "",
+    "dialog": "",
+    "drawing-draft": "",
+    "drawing": "",
+    "edited": "FALSE",
+    "caption": "",
+    "lyrics ": "MAN, YA’LL CAN’T STOP ME DON’T EVEN TRY IT \rI GET CRUNK GO WILD AS A RIOT \rVIOLENT I DON’T HIDE IT I’M A VILLAIN WHY DENY IT"
+  },
+  {
+    "name": "",
+    "location": "",
+    "actor": "",
+    "description": "A scantily-clad, mask-wearing lady sells betel nuts from a neon-lit glass kiosk. She beckons a passing Jamal.",
+    "dialog": "",
+    "drawing-draft": "A scantily-clad, mask-wearing lady sells betel nuts from a neon-lit glass kiosk beckons Jamal",
+    "drawing": "A scantily-clad, mask-wearing lady sells betel nuts from a neon-lit glass kiosk beckons Jamal",
+    "edited": "FALSE"
+  },
+  {
+    "name": "",
+    "location": "",
+    "actor": "",
+    "description": "",
+    "dialog": "",
+    "drawing-draft": "",
+    "drawing": "",
+    "edited": "FALSE",
+    "caption": "",
+    "lyrics ": "PUSSY COME FREE, HO, WHY IM GONNA BUY IT?"
+  },
+  {
+    "name": "",
+    "location": "",
+    "actor": "",
+    "description": "The checkerboard face thug snatches the purse from the betel nut girl. Jamal violently clotheslines him in one motion. Jamal tosses the purse back to the girl then strips the thug of his Money Green Chinchilla fur jacket. ",
+    "dialog": "",
+    "drawing-draft": "Jamal violently clotheslines a thug with a checkerboard face tattoo on a hover scooter/ Jamal strips the thug of his Money Green Chinchilla fur jacket. ",
+    "drawing": "Jamal violently clotheslines a thug with a checkerboard face tattoo on a hover scooter",
+    "edited": "TRUE"
+  },
+  {
+    "name": "",
+    "location": "",
+    "actor": "",
+    "description": "",
+    "dialog": "",
+    "drawing-draft": "",
+    "drawing": "",
+    "edited": "FALSE",
+    "caption": "",
+    "lyrics ": "SINISTER, PIMP GAME LIKE A MINISTER\rMORTAL KOMBAT, MOUTH PIECE, I’M A FINISHER –\rFINITO, SAYONARA, ADIOS –\rAFTER I GET ZIP AND SOME DRIP THEN I’M GHOST"
+  },
   {
     "name": "Board meeting",
     "location": "monocorp-penthouse",
     "actor": "",
     "description": "",
     "dialog": "",
-    "drawing": "[monocorp-penthouse] exterior shot"
+    "drawing-draft": "[monocorp-penthouse] exterior shot",
+    "drawing": "[monocorp-penthouse] exterior shot",
+    "edited": "FALSE"
   },
   {
     "name": "",
@@ -114,9 +253,22 @@
     "actor": "",
     "description": "BOARD MEMBERS (20s-50s, mix genders and ethnicities, epitomizing corporate cool with deadpan stares, smoldering gazes and perfectly coiffed hair) dance",
     "dialog": "",
-    "drawing": "[boardMembers] dancing",
-    "caption": "board members",
-    "lyrics ": "BOARD\rWE’RE GONNA DRINK UNTIL WE’RE DRUNK\rGONNA PARTY ‘TIL THE BOARD ROOM’S CRUNK\rGONNA SAY WHAT WE WANT\r’CAUSE WE DON’T GIVE A FUCK"
+    "drawing-draft": "[boardMembers] dancing / BoardMembers singing.",
+    "drawing": "[boardMembers] singing and dancing",
+    "edited": "TRUE",
+    "caption": "board members"
+  },
+  {
+    "name": "",
+    "location": "",
+    "actor": "",
+    "description": "",
+    "dialog": "",
+    "drawing-draft": "",
+    "drawing": "",
+    "edited": "FALSE",
+    "caption": "",
+    "lyrics ": "BOARD WE’RE GONNA DRINK UNTIL WE’RE DRUNK GONNA PARTY ‘TIL THE BOARD ROOM’S CRUNK GONNA SAY WHAT WE WANT ’CAUSE WE DON’T GIVE A FUCK"
   },
   {
     "name": "",
@@ -124,13 +276,278 @@
     "actor": "",
     "description": "They remove their hooded robes to reveal power suits. They dance in unison in front of a raised stage surrounded by video screens",
     "dialog": "",
-    "drawing": "",
+    "drawing-draft": "Boardmembers remove their hooded robes to reveal power suits",
+    "drawing": "[boardMembers] remove their hooded robes to reveal power suits",
+    "edited": "TRUE",
     "caption": "Monocorp's Board celebrate their growing global control"
   },
   {
     "name": "",
     "location": "",
     "actor": "",
-    "description": "VIDEO: Revenue numbers and pie charts highlighting Monocorp’s financial success flash on screen."
+    "description": "VIDEO: Revenue numbers and pie charts highlighting Monocorp’s financial success flash on screen.",
+    "dialog": "",
+    "drawing-draft": "Boardmembers revel in the revenue numbers and pie charts that flash on a screen, highlighting Monocorp’s financial success.",
+    "drawing": "[boardMembers] looking at a presentation of pie charts on a big screen, showing financial success.",
+    "edited": "TRUE"
+  },
+  {
+    "name": "",
+    "location": "",
+    "actor": "",
+    "description": "",
+    "dialog": "",
+    "drawing-draft": "",
+    "drawing": "",
+    "edited": "FALSE"
+  },
+  {
+    "name": "Hadji ",
+    "location": "",
+    "actor": "",
+    "description": "He’s strung out — smoking and drinking from a sake flask.",
+    "dialog": "",
+    "drawing-draft": "Hadji is strung out, depressed, — smoking and drinking from a huka in a huka bar.",
+    "drawing": "[hadji] is strung out, depressed, — smoking and drinking from a huka in a huka bar.",
+    "edited": "TRUE"
+  },
+  {
+    "name": "",
+    "location": "",
+    "actor": "",
+    "description": "He holds up a card and - sleight of hand - it disappear.",
+    "dialog": "",
+    "drawing-draft": "Hadji holds up a playing card and - sleight of hand - it disappear.",
+    "drawing": "[hadji] holds up a playing card and - sleight of hand - it disappears",
+    "edited": "TRUE"
+  },
+  {
+    "name": "",
+    "location": "",
+    "actor": "Hadji",
+    "description": "",
+    "dialog": "For my next trick, I’ll need a condom and a female volunteer.",
+    "drawing-draft": "",
+    "drawing": "",
+    "edited": "FALSE",
+    "caption": "For my next trick, I’ll need a condom and a female volunteer."
+  },
+  {
+    "name": "",
+    "location": "",
+    "actor": "",
+    "description": "",
+    "dialog": "",
+    "drawing-draft": "",
+    "drawing": "",
+    "edited": "FALSE",
+    "caption": "",
+    "lyrics ": "I CAN MAKE CHICKS TURN TRICKS LIKE MAGIC\rRUN GAME AUTOMATIC \rTHEY COME FROM CASTE TO CASTE\rI MAKE ‘EM YEARN ‘TIL THEY BURN LIKE ADDICTS\rTIL THEY BEG TO HAVE IT\rTHE HIGH NEVER LAST"
+  },
+  {
+    "name": "",
+    "location": "",
+    "actor": "",
+    "description": "The groupie slips a snow globe into Hadji’s coat. ",
+    "dialog": "",
+    "drawing-draft": "",
+    "drawing": "",
+    "edited": "FALSE"
+  },
+  {
+    "name": "",
+    "location": "",
+    "actor": "",
+    "description": "Two guards tap their PAL headpieces and pick up Hadji, and drag him to the Jumper outside.",
+    "dialog": "",
+    "drawing-draft": "",
+    "drawing": "Two bar guards drag Hadji out of the club/ The Two guards put Hadji into a gold flying quadcopter outside",
+    "edited": "TRUE",
+    "caption": "Two bar guards drag Hadji out of the club/ The Two guards put Hadji into a gold flying quadcopter outside"
+  },
+  {
+    "name": "",
+    "location": "",
+    "actor": "",
+    "description": "",
+    "dialog": "",
+    "drawing-draft": "",
+    "drawing": "",
+    "edited": "FALSE"
+  },
+  {
+    "name": "",
+    "location": "",
+    "actor": "",
+    "description": "",
+    "dialog": "",
+    "drawing-draft": "",
+    "drawing": "",
+    "edited": "FALSE"
+  },
+  {
+    "name": "SSS-Scene",
+    "location": "SSS-int.",
+    "actor": "",
+    "description": "Tiara ducks inside.",
+    "dialog": "",
+    "drawing-draft": "",
+    "drawing": "",
+    "edited": "FALSE"
+  },
+  {
+    "name": "",
+    "location": "",
+    "actor": "",
+    "description": "The club features a cheaply designed fiberglass, foam alien garden set design. It’s a faux bio-luminescent grassland teeming with “exotic” plants and underwater coral reefs and plankton. More depressing than magical.",
+    "dialog": "",
+    "drawing-draft": "",
+    "drawing": "The club features a cheaply designed fiberglass, foam alien garden set design. It’s a faux bio-luminescent grassland teeming with “exotic” plants and underwater coral reefs and plankton. More depressing than magical.",
+    "edited": "TRUE",
+    "caption": "The club features a cheaply designed fiberglass, foam alien garden set design. It’s a faux bio-luminescent grassland teeming with “exotic” plants and underwater coral reefs and plankton. More depressing than magical."
+  },
+  {
+    "name": "",
+    "location": "",
+    "actor": "",
+    "description": "The club’s scruffy, ragtag performers - most likely sex workers - wear green screen suits with surgical gloves, respiratory masks and minimal costume accessories: ears, butt plugs attached to rubber tails, alien headgear, strap-on dildos and artificial pussies. ",
+    "dialog": "",
+    "drawing-draft": "",
+    "drawing": "The club’s scruffy, ragtag cosplay performers wear green screen suits with surgical gloves, respiratory masks and minimal costume accessories: ears, butt plugs attached to rubber tails, alien headgear, strap-on dildos and artificial pussies. ",
+    "edited": "TRUE",
+    "caption": "The club’s scruffy, ragtag cosplay performers wear green screen suits with surgical gloves, respiratory masks and minimal costume accessories: ears, butt plugs attached to rubber tails, alien headgear, strap-on dildos and artificial pussies. "
+  },
+  {
+    "name": "",
+    "location": "",
+    "actor": "",
+    "description": "An avatar RINGMASTER (30s, man, handsome wearing red tail coat with chain closure, vest dickey with attached bow tie, top hat) appears and hypes the lonesome crowd.",
+    "dialog": "",
+    "drawing-draft": "",
+    "drawing": "",
+    "edited": "FALSE"
+  },
+  {
+    "name": "",
+    "location": "",
+    "actor": "",
+    "description": "The PROPRIETOR (THAI LADYBOY, 30s, beautiful) hands Tiara an old Oculus-like tech headset like loaner shoes at a bowling alley.",
+    "dialog": "",
+    "drawing-draft": "",
+    "drawing": "",
+    "edited": "FALSE"
+  },
+  {
+    "name": "",
+    "location": "",
+    "actor": "",
+    "description": "The DJ (20-something, tall, piercing blue eyes and long hair) put a needle on the record. He stares at Tiara.\nTogether the performers dance and sing a sorta Lady Marmalade-like anthem that belies their weariness and despair.",
+    "dialog": "",
+    "drawing-draft": "",
+    "drawing": "",
+    "edited": "FALSE"
+  },
+  {
+    "name": "",
+    "location": "",
+    "actor": "",
+    "description": "From the POV of the AR headset, the club’s crude sets transform into something magical, and shaggy cosplay performers now appear as fully-realized anthropomorphic animals, avatars, aliens, and anime characters. It’s like a perverse cartoon that’s magnificently come to life!",
+    "dialog": "",
+    "drawing-draft": "",
+    "drawing": "",
+    "edited": "FALSE"
+  },
+  {
+    "name": "",
+    "location": "",
+    "actor": "",
+    "description": "",
+    "dialog": "",
+    "drawing-draft": "",
+    "drawing": "",
+    "edited": "FALSE",
+    "caption": "",
+    "lyrics ": "ROCK THE SIAMESE SEX SHOW\nCOME IN TAKE OF YOUR CLOTHES\nTAKE YOUR TIME LET'S GO SLOW\nNO ONE WILL EVER KNOW\nCOME INDULGE YOUR FANTASIES\nYOUR SECRET'S SAFE WITH ME\nYOU'LL CREAM IN ECSTASY \nSATISFACTION GUARANTEED "
+  },
+  {
+    "name": "",
+    "location": "",
+    "actor": "",
+    "description": "",
+    "dialog": "California rocks like Bangkok!",
+    "drawing-draft": "",
+    "drawing": "",
+    "edited": "FALSE"
+  },
+  {
+    "name": "",
+    "location": "",
+    "actor": "",
+    "description": "Without the headset (a true case of rose-colored glasses) Tiara watches the cold reality of jaded performers giving perfunctory lap dances and gloved hand jobs to the sad and lonely headset-wearing female and male patrons - miserable social outliers you might find in a strip club.",
+    "dialog": "",
+    "drawing-draft": "",
+    "drawing": "",
+    "edited": "FALSE"
+  },
+  {},
+  {},
+  {},
+  {
+    "name": "ConferenceRoom",
+    "location": "",
+    "actor": "",
+    "description": "Tiara, Hadji and Jamal sit eyeing each other. "
+  },
+  {
+    "name": "",
+    "location": "",
+    "actor": "",
+    "description": "Jamal has his feet up on the table with a joint in his mouth. His face is partially hidden in shadows. "
+  },
+  {
+    "name": "",
+    "location": "",
+    "actor": "",
+    "description": "Hadji drinks from his flask. "
+  },
+  {
+    "name": "",
+    "location": "",
+    "actor": "",
+    "description": "Tiara, still in sunglasses, taps her leg, lights a cigarette and - with a french inhale - starts the convo."
+  },
+  {
+    "name": "",
+    "location": "",
+    "actor": "",
+    "description": "",
+    "dialog": "TIARA  \nI hope this doesn't take long. I'm in the middle of shooting."
+  },
+  {
+    "name": "",
+    "location": "",
+    "actor": "",
+    "description": "",
+    "dialog": "JAMAL\rShooting? I thought poison was your “trade murk”."
+  },
+  {
+    "name": "",
+    "location": "",
+    "actor": "",
+    "description": "",
+    "dialog": "TIARA\rExcuse me? You know me? "
+  },
+  {
+    "name": "",
+    "location": "",
+    "actor": "",
+    "description": "Jamal leans forward into the light, gold tooth gleaming."
+  },
+  {
+    "name": "",
+    "location": "",
+    "actor": "",
+    "description": "",
+    "dialog": "JAMAL\rI know ya moved grande dame’s name from the marquee to a tombstone. Changed her wonderful life from an “is” to a “was”. "
   }
 ]

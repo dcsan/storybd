@@ -35,5 +35,39 @@
     "monocorp-penthouse",
     "monocorpPenthouse",
     "Monocorp’s penthouse media center overlooks the city. CIGARETTE SMOKE wafts in the air. a raised stage surrounded by video screens"
+  ],
+  [
+    "SSS-int.",
+    "",
+    "The club features a cheaply designed fiberglass, foam alien garden set design. It’s a faux bio-luminescent grassland teeming with “exotic” plants and underwater coral reefs and plankton. More depressing than magical."
+  ],
+  [
+    "BangkokSSS-int."
+  ],
+  [
+    "Conference-room-int.",
+    "ConferenceRoom",
+    "The conference room is dark and accented by ambient lighting. A glowing, circular WAR TABLE is in the center surrounded by VIDEO SCREEN walls that loop ultra stylish Monocorp consumer ads for everything from weapons to breakfast cereal."
+  ],
+  [
+    "prison.ext",
+    "prisonext",
+    "In the heart of Los Angeles, a gutted Hilton Hotel has been converted into a prison. Inside the perimeter of barbed wire is the sign “LA Hilton Central Prison.” "
+  ],
+  [
+    "clubopium.int",
+    "opiumint",
+    "Club Opium is a mix of a luxurious Parisian cabaret, a hookah bar, and an imitation of opium dens of the past."
+  ],
+  [
+    "sss-ext",
+    "sssext",
+    "Siamese Sex Show - an augmented reality sex club. Just outside the entrance is the hologram of a creepy vintage HOLLYWOOD MOVIE USHER (white, 23, ghoulish face with classic jacket, trousers, hat and flashlight.) Ash falls like snowflakes.",
+    "SSSClub"
+  ],
+  [
+    "Wet-market.ext",
+    "",
+    "a BAZAAR with CHRISTMAS LIGHTS strung up over WET MARKETS and RATIONING BOOTHS. "
   ]
 ]
