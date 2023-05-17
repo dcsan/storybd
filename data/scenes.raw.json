@@ -218,8 +218,8 @@
   ],
   [
     "Annual Board Meeting",
-    "monocorpExt",
-    "boardmembers",
+    "capitolExt",
+    "Tiara",
     "",
     "",
     "exterior shot"
@@ -287,9 +287,16 @@
     "opiumint",
     "Hadji",
     "",
-    "For my next trick, I’ll need a condom and a female volunteer.",
+    "",
     "[hadji] but the playing card has disappeared",
     "The mourning maharashi "
+  ],
+  [
+    "",
+    "",
+    "Hadji",
+    "",
+    "For my next trick, I’ll need a condom and a female volunteer."
   ],
   [
     "",
@@ -363,23 +370,23 @@
     "",
     "The PROPRIETOR hands Tiara an old Oculus-like tech headset like loaner shoes at a bowling alley.",
     "",
-    "The PROPRIETOR (THAI LADYBOY, 30s, beautiful) hands Tiara an old Oculus-like tech headset like loaner shoes at a bowling alley."
+    "[proprietor] hands [tiara] an old Oculus-like tech headset like loaner shoes at a bowling alley."
   ],
   [
     "",
     "sssInt",
-    "",
+    "DJ",
     "The DJ (20-something, tall, piercing blue eyes and long hair) put a needle on the record. He stares at Tiara.\nTogether the performers dance and sing a sorta Lady Marmalade-like anthem that belies their weariness and despair.",
     "",
-    "The DJ put a needle on the record. He stares at Tiara.\n"
+    "The [DJ] put a needle on the record. He stares at [tiara]\n"
   ],
   [
     "",
     "sssInt",
-    "",
+    "Narrator",
     "From the POV of the AR headset, the club’s crude sets transform into something magical, and shaggy cosplay performers now appear as fully-realized anthropomorphic animals, avatars, aliens, and anime characters. It’s like a perverse cartoon that’s magnificently come to life!",
     "",
-    "[sssPerformers] dance in unison like anime and anthromorphic characters"
+    "[sssPerformers] dance in unison like anime and anthropomorphic animals, avatars, aliens, and anime characters"
   ],
   [
     "",
@@ -403,22 +410,52 @@
     "",
     "sssInt",
     "",
-    "Without the headset (a true case of rose-colored glasses) Tiara watches the cold reality of jaded performers giving perfunctory lap dances and gloved hand jobs to the sad and lonely headset-wearing female and male patrons - miserable social outliers you might find in a strip club."
+    "Without the headset (a true case of rose-colored glasses) Tiara watches the cold reality of jaded performers giving perfunctory lap dances and gloved hand jobs to the sad and lonely headset-wearing female and male patrons - miserable social outliers you might find in a strip club.",
+    "",
+    "[sssint] [sssperformers] perform lap dances"
   ],
   [
     "",
-    "sssInt"
+    "sssInt",
+    "",
+    "Tiara watches the cold reality of jaded performers giving gloved hand jobs to the sad and lonely headset-wearing female and male patrons",
+    "",
+    "[sssint] [sssperformers] caress performers"
   ],
   [
     "",
-    "sssInt"
+    "sssInt",
+    "Tiara",
+    "barren room AWASHED IN A RED GLOW with velvet wall paper and hanging lamps",
+    "",
+    "barren room AWASHED IN A RED GLOW with velvet wall paper and hanging lamps.",
+    "Tiara meets Mysterioso "
   ],
   [
     "",
-    "sssInt"
+    "sssInt",
+    "Mysterioso ",
+    "Mysterioso sits at a booth, hidden in shadows, she spins a snow globe",
+    "",
+    "[Mysterioso] sits at a booth, hidden in shadows, she spins a snow globe.",
+    "Mysterioso or The Wizard of Oz"
   ],
-  [],
-  [],
+  [
+    "",
+    "",
+    "Tiara",
+    "",
+    "Ah, so, you’re the Wizard of Oz. ",
+    "[Tiara] snarls at [Mysterioso] "
+  ],
+  [
+    "",
+    "",
+    "",
+    "Mysterioso speaks to Tiara ",
+    "Come in, you’re safe. All tracking signals are blocked. Customer confidentiality is a priority.",
+    "[Mysterioso] beckons [Tiara] forward"
+  ],
   [],
   [
     "ConferenceRoom",
@@ -451,12 +488,27 @@
     "ConferenceRoom",
     "Tiara",
     "",
-    "I hope this doesn't take long. I'm in the middle of shooting.",
+    "",
     "[conferenceroom] [tiara] smokes and speaks with diva flair"
   ],
   [
     "",
+    "",
+    "Tiara",
+    "",
+    "I hope this doesn't take long. I'm in the middle of shooting"
+  ],
+  [
+    "",
     "ConferenceRoom",
+    "Jamal ",
+    "",
+    "",
+    "[jamal] smiles at [tiara] "
+  ],
+  [
+    "",
+    "",
     "Jamal ",
     "",
     "Shooting? I thought poison was your “trade murk”."
@@ -466,20 +518,24 @@
     "ConferenceRoom",
     "Tiara",
     "",
-    "\nExcuse me? You know me? "
-  ],
-  [
-    "",
-    "ConferenceRoom",
-    "",
-    "Jamal leans forward into the light, gold tooth gleaming."
+    "\nExcuse me? You know me? ",
+    "[tiara] snarls at [jamal]"
   ],
   [
     "",
     "ConferenceRoom",
     "Jamal ",
+    "Jamal leans forward into the light, gold tooth gleaming.",
+    "I know ya moved grande dame’s name from the marquee to a tombstone. Changed her wonderful life from an “is” to a “was”. ",
+    "[jamal] laughs at [tiara]"
+  ],
+  [
     "",
-    "I know ya moved grande dame’s name from the marquee to a tombstone. Changed her wonderful life from an “is” to a “was”. "
+    "ConferenceRoom",
+    "Tiara",
+    "",
+    "Who the fuck--?",
+    "Tiara yells back at [Jamal]"
   ],
   [
     "",

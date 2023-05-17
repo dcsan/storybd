@@ -283,8 +283,8 @@
   },
   {
     "name": "Annual Board Meeting",
-    "location": "monocorpExt",
-    "actor": "boardmembers",
+    "location": "capitolExt",
+    "actor": "Tiara",
     "description": "",
     "dialog": "",
     "drawing": "exterior shot",
@@ -380,12 +380,23 @@
     "location": "opiumint",
     "actor": "Hadji",
     "description": "",
-    "dialog": "For my next trick, I’ll need a condom and a female volunteer.",
+    "dialog": "",
     "drawing": "[hadji] but the playing card has disappeared",
     "caption": "The mourning maharashi",
     "lyrics": "",
     "row": 32,
     "expanded": "young indian man, swarthy, heart throb, handsome looks like Keanu Reeves but the playing card has disappeared"
+  },
+  {
+    "name": "",
+    "location": "",
+    "actor": "Hadji",
+    "description": "",
+    "dialog": "For my next trick, I’ll need a condom and a female volunteer.",
+    "drawing": "",
+    "caption": "",
+    "lyrics": "",
+    "row": 33
   },
   {
     "name": "",
@@ -396,7 +407,7 @@
     "drawing": "",
     "caption": "",
     "lyrics": "I CAN MAKE CHICKS TURN TRICKS LIKE MAGIC\rRUN GAME AUTOMATIC \rTHEY COME FROM CASTE TO CASTE\rI MAKE ‘EM YEARN ‘TIL THEY BURN LIKE ADDICTS\rTIL THEY BEG TO HAVE IT\rTHE HIGH NEVER LAST",
-    "row": 33
+    "row": 34
   },
   {
     "name": "",
@@ -407,7 +418,7 @@
     "drawing": "",
     "caption": "",
     "lyrics": "",
-    "row": 34
+    "row": 35
   },
   {
     "name": "Hadji the Mourning Maharashi",
@@ -418,19 +429,8 @@
     "drawing": "Two big bouncers drag [hadji] out of the club",
     "caption": "Two bar guards drag Hadji out of the club",
     "lyrics": "",
-    "row": 35,
+    "row": 36,
     "expanded": "Two big bouncers drag young indian man, swarthy, heart throb, handsome looks like Keanu Reeves out of the club"
-  },
-  {
-    "name": "",
-    "location": "sssext",
-    "actor": "",
-    "description": "",
-    "dialog": "",
-    "drawing": "",
-    "caption": "",
-    "lyrics": "",
-    "row": 36
   },
   {
     "name": "",
@@ -444,10 +444,10 @@
     "row": 37
   },
   {
-    "name": "SSS-Scene",
-    "location": "sssInt",
-    "actor": "Tiara",
-    "description": "Tiara ducks inside.",
+    "name": "",
+    "location": "sssext",
+    "actor": "",
+    "description": "",
     "dialog": "",
     "drawing": "",
     "caption": "",
@@ -458,12 +458,23 @@
     "name": "SSS-Scene",
     "location": "sssInt",
     "actor": "Tiara",
+    "description": "Tiara ducks inside.",
+    "dialog": "",
+    "drawing": "",
+    "caption": "",
+    "lyrics": "",
+    "row": 39
+  },
+  {
+    "name": "SSS-Scene",
+    "location": "sssInt",
+    "actor": "Tiara",
     "description": "The club features a cheaply designed fiberglass, foam alien garden set design. It’s a faux bio-luminescent grassland teeming with “exotic” plants and underwater coral reefs and plankton. More depressing than magical.",
     "dialog": "",
     "drawing": "The main set design features faux bio-luminescent grassland teeming with “exotic” plants and underwater coral reefs and plankton. More depressing than magical.",
     "caption": "The club features a cheaply designed fiberglass, foam alien garden set design. It’s a faux bio-luminescent grassland teeming with “exotic” plants and underwater coral reefs and plankton. More depressing than magical.",
     "lyrics": "",
-    "row": 39,
+    "row": 40,
     "expanded": "The main set design features faux bio-luminescent grassland teeming with “exotic” plants and underwater coral reefs and plankton. More depressing than magical."
   },
   {
@@ -475,7 +486,7 @@
     "drawing": "The club’s scruffy, ragtag cosplay performers wear green screen suits with surgical gloves, respiratory masks and minimal costume accessories: ears, rubber tails, alien headgear",
     "caption": "The club’s scruffy, ragtag cosplay performers wear green screen suits with surgical gloves, respiratory masks and minimal costume accessories: ears, butt plugs attached to rubber tails, alien headgear, strap-on dildos and artificial pussies.",
     "lyrics": "",
-    "row": 40,
+    "row": 41,
     "expanded": "The club’s scruffy, ragtag cosplay performers wear green screen suits with surgical gloves, respiratory masks and minimal costume accessories: ears, rubber tails, alien headgear"
   },
   {
@@ -487,7 +498,7 @@
     "drawing": "A ringmaster hypes the lonely crowd",
     "caption": "Welcome to the Siamese Sex Show",
     "lyrics": "",
-    "row": 41,
+    "row": 42,
     "expanded": "A ringmaster hypes the lonely crowd"
   },
   {
@@ -496,35 +507,35 @@
     "actor": "",
     "description": "The PROPRIETOR hands Tiara an old Oculus-like tech headset like loaner shoes at a bowling alley.",
     "dialog": "",
-    "drawing": "The PROPRIETOR (THAI LADYBOY, 30s, beautiful) hands Tiara an old Oculus-like tech headset like loaner shoes at a bowling alley.",
-    "caption": "",
-    "lyrics": "",
-    "row": 42,
-    "expanded": "The PROPRIETOR (THAI LADYBOY, 30s, beautiful) hands Tiara an old Oculus-like tech headset like loaner shoes at a bowling alley."
-  },
-  {
-    "name": "SSS-Scene",
-    "location": "sssInt",
-    "actor": "",
-    "description": "The DJ (20-something, tall, piercing blue eyes and long hair) put a needle on the record. He stares at Tiara.\nTogether the performers dance and sing a sorta Lady Marmalade-like anthem that belies their weariness and despair.",
-    "dialog": "",
-    "drawing": "The DJ put a needle on the record. He stares at Tiara.",
+    "drawing": "[proprietor] hands [tiara] an old Oculus-like tech headset like loaner shoes at a bowling alley.",
     "caption": "",
     "lyrics": "",
     "row": 43,
-    "expanded": "The DJ put a needle on the record. He stares at Tiara."
+    "expanded": "[proprietor] hands early 30s ethnically ambiguous woman in a red dress wearing Jackie Onassis sunglasses an old Oculus-like tech headset like loaner shoes at a bowling alley."
   },
   {
     "name": "SSS-Scene",
     "location": "sssInt",
-    "actor": "",
-    "description": "From the POV of the AR headset, the club’s crude sets transform into something magical, and shaggy cosplay performers now appear as fully-realized anthropomorphic animals, avatars, aliens, and anime characters. It’s like a perverse cartoon that’s magnificently come to life!",
+    "actor": "DJ",
+    "description": "The DJ (20-something, tall, piercing blue eyes and long hair) put a needle on the record. He stares at Tiara.\nTogether the performers dance and sing a sorta Lady Marmalade-like anthem that belies their weariness and despair.",
     "dialog": "",
-    "drawing": "[sssPerformers] dance in unison like anime and anthromorphic characters",
+    "drawing": "The [DJ] put a needle on the record. He stares at [tiara]",
     "caption": "",
     "lyrics": "",
     "row": 44,
-    "expanded": "[sssPerformers] dance in unison like anime and anthromorphic characters"
+    "expanded": "The [DJ] put a needle on the record. He stares at early 30s ethnically ambiguous woman in a red dress wearing Jackie Onassis sunglasses"
+  },
+  {
+    "name": "SSS-Scene",
+    "location": "sssInt",
+    "actor": "Narrator",
+    "description": "From the POV of the AR headset, the club’s crude sets transform into something magical, and shaggy cosplay performers now appear as fully-realized anthropomorphic animals, avatars, aliens, and anime characters. It’s like a perverse cartoon that’s magnificently come to life!",
+    "dialog": "",
+    "drawing": "[sssPerformers] dance in unison like anime and anthropomorphic animals, avatars, aliens, and anime characters",
+    "caption": "",
+    "lyrics": "",
+    "row": 45,
+    "expanded": "[sssPerformers] dance in unison like anime and anthropomorphic animals, avatars, aliens, and anime characters"
   },
   {
     "name": "",
@@ -535,7 +546,7 @@
     "drawing": "",
     "caption": "",
     "lyrics": "ROCK THE SIAMESE SEX SHOW\nCOME IN TAKE OF YOUR CLOTHES\nTAKE YOUR TIME LET'S GO SLOW\nNO ONE WILL EVER KNOW\nCOME INDULGE YOUR FANTASIES\nYOUR SECRET'S SAFE WITH ME\nYOU'LL CREAM IN ECSTASY \nSATISFACTION GUARANTEED",
-    "row": 45
+    "row": 46
   },
   {
     "name": "SSS-Scene",
@@ -546,52 +557,80 @@
     "drawing": "[sssint] [ringmaster] sings to the crowd",
     "caption": "",
     "lyrics": "",
-    "row": 46,
+    "row": 47,
     "expanded": "The dark shadowy club features cheaply designed stage props 30s, man, handsome wearing red tail coat with chain closure, vest dickey with attached bow tie, top hat) appears and hypes the lonesome crowd. sings to the crowd"
   },
   {
-    "name": "",
+    "name": "SSS-Scene",
     "location": "sssInt",
     "actor": "",
     "description": "Without the headset (a true case of rose-colored glasses) Tiara watches the cold reality of jaded performers giving perfunctory lap dances and gloved hand jobs to the sad and lonely headset-wearing female and male patrons - miserable social outliers you might find in a strip club.",
     "dialog": "",
-    "drawing": "",
+    "drawing": "[sssint] [sssperformers] perform lap dances",
     "caption": "",
     "lyrics": "",
-    "row": 47
+    "row": 48,
+    "expanded": "The dark shadowy club features cheaply designed stage props [sssperformers] perform lap dances"
   },
   {
-    "name": "",
+    "name": "SSS-Scene",
     "location": "sssInt",
     "actor": "",
-    "description": "",
+    "description": "Tiara watches the cold reality of jaded performers giving gloved hand jobs to the sad and lonely headset-wearing female and male patrons",
     "dialog": "",
-    "drawing": "",
+    "drawing": "[sssint] [sssperformers] caress performers",
     "caption": "",
     "lyrics": "",
-    "row": 48
+    "row": 49,
+    "expanded": "The dark shadowy club features cheaply designed stage props [sssperformers] caress performers"
   },
   {
-    "name": "",
+    "name": "SSS-Scene",
     "location": "sssInt",
-    "actor": "",
-    "description": "",
+    "actor": "Tiara",
+    "description": "barren room AWASHED IN A RED GLOW with velvet wall paper and hanging lamps",
     "dialog": "",
-    "drawing": "",
-    "caption": "",
+    "drawing": "barren room AWASHED IN A RED GLOW with velvet wall paper and hanging lamps.",
+    "caption": "Tiara meets Mysterioso",
     "lyrics": "",
-    "row": 49
+    "row": 50,
+    "expanded": "barren room AWASHED IN A RED GLOW with velvet wall paper and hanging lamps."
   },
   {
-    "name": "",
+    "name": "SSS-Scene",
     "location": "sssInt",
-    "actor": "",
-    "description": "",
+    "actor": "Mysterioso",
+    "description": "Mysterioso sits at a booth, hidden in shadows, she spins a snow globe",
     "dialog": "",
-    "drawing": "",
+    "drawing": "[Mysterioso] sits at a booth, hidden in shadows, she spins a snow globe.",
+    "caption": "Mysterioso or The Wizard of Oz",
+    "lyrics": "",
+    "row": 51,
+    "expanded": "[Mysterioso] sits at a booth, hidden in shadows, she spins a snow globe."
+  },
+  {
+    "name": "SSS-Scene",
+    "location": "",
+    "actor": "Tiara",
+    "description": "",
+    "dialog": "Ah, so, you’re the Wizard of Oz.",
+    "drawing": "[Tiara] snarls at [Mysterioso]",
     "caption": "",
     "lyrics": "",
-    "row": 50
+    "row": 52,
+    "expanded": "[Tiara] snarls at [Mysterioso]"
+  },
+  {
+    "name": "SSS-Scene",
+    "location": "",
+    "actor": "",
+    "description": "Mysterioso speaks to Tiara",
+    "dialog": "Come in, you’re safe. All tracking signals are blocked. Customer confidentiality is a priority.",
+    "drawing": "[Mysterioso] beckons [Tiara] forward",
+    "caption": "",
+    "lyrics": "",
+    "row": 53,
+    "expanded": "[Mysterioso] beckons [Tiara] forward"
   },
   {
     "name": "ConferenceRoom",
@@ -602,7 +641,7 @@
     "drawing": "[conferenceroom] silhouettes of three people stare at each other",
     "caption": "",
     "lyrics": "",
-    "row": 54,
+    "row": 55,
     "expanded": "The conference room is dark and accented by ambient lighting. A glowing, circular WAR TABLE is in the center surrounded by VIDEO SCREEN walls with ads of Roxie Star silhouettes of three people stare at each other"
   },
   {
@@ -614,7 +653,7 @@
     "drawing": "",
     "caption": "",
     "lyrics": "",
-    "row": 55
+    "row": 56
   },
   {
     "name": "",
@@ -625,7 +664,7 @@
     "drawing": "",
     "caption": "",
     "lyrics": "",
-    "row": 56
+    "row": 57
   },
   {
     "name": "",
@@ -636,96 +675,89 @@
     "drawing": "",
     "caption": "",
     "lyrics": "",
-    "row": 57
+    "row": 58
   },
   {
     "name": "ConferenceRoom",
     "location": "ConferenceRoom",
     "actor": "Tiara",
     "description": "",
-    "dialog": "I hope this doesn't take long. I'm in the middle of shooting.",
+    "dialog": "",
     "drawing": "[conferenceroom] [tiara] smokes and speaks with diva flair",
     "caption": "",
     "lyrics": "",
-    "row": 58,
+    "row": 59,
     "expanded": "The conference room is dark and accented by ambient lighting. A glowing, circular WAR TABLE is in the center surrounded by VIDEO SCREEN walls with ads of Roxie Star early 30s ethnically ambiguous woman in a red dress wearing Jackie Onassis sunglasses smokes and speaks with diva flair"
   },
   {
     "name": "",
-    "location": "ConferenceRoom",
-    "actor": "Jamal",
-    "description": "",
-    "dialog": "Shooting? I thought poison was your “trade murk”.",
-    "drawing": "",
-    "caption": "",
-    "lyrics": "",
-    "row": 59
-  },
-  {
-    "name": "",
-    "location": "ConferenceRoom",
+    "location": "",
     "actor": "Tiara",
     "description": "",
-    "dialog": "Excuse me? You know me?",
+    "dialog": "I hope this doesn't take long. I'm in the middle of shooting",
     "drawing": "",
     "caption": "",
     "lyrics": "",
     "row": 60
   },
   {
-    "name": "",
-    "location": "ConferenceRoom",
-    "actor": "",
-    "description": "Jamal leans forward into the light, gold tooth gleaming.",
-    "dialog": "",
-    "drawing": "",
-    "caption": "",
-    "lyrics": "",
-    "row": 61
-  },
-  {
-    "name": "",
+    "name": "ConferenceRoom",
     "location": "ConferenceRoom",
     "actor": "Jamal",
     "description": "",
-    "dialog": "I know ya moved grande dame’s name from the marquee to a tombstone. Changed her wonderful life from an “is” to a “was”.",
+    "dialog": "",
+    "drawing": "[jamal] smiles at [tiara]",
+    "caption": "",
+    "lyrics": "",
+    "row": 61,
+    "expanded": "Young male, burly, black, doo rag, tats, a scar on his neck, 50 Cent and Mike Tyson, wearing a hoodie smiles at early 30s ethnically ambiguous woman in a red dress wearing Jackie Onassis sunglasses"
+  },
+  {
+    "name": "",
+    "location": "",
+    "actor": "Jamal",
+    "description": "",
+    "dialog": "Shooting? I thought poison was your “trade murk”.",
     "drawing": "",
     "caption": "",
     "lyrics": "",
     "row": 62
   },
   {
-    "name": "",
+    "name": "ConferenceRoom",
     "location": "ConferenceRoom",
-    "actor": "",
+    "actor": "Tiara",
     "description": "",
-    "dialog": "",
-    "drawing": "",
+    "dialog": "Excuse me? You know me?",
+    "drawing": "[tiara] snarls at [jamal]",
     "caption": "",
     "lyrics": "",
-    "row": 63
+    "row": 63,
+    "expanded": "early 30s ethnically ambiguous woman in a red dress wearing Jackie Onassis sunglasses snarls at Young male, burly, black, doo rag, tats, a scar on his neck, 50 Cent and Mike Tyson, wearing a hoodie"
   },
   {
-    "name": "",
+    "name": "ConferenceRoom",
     "location": "ConferenceRoom",
-    "actor": "",
-    "description": "",
-    "dialog": "",
-    "drawing": "",
+    "actor": "Jamal",
+    "description": "Jamal leans forward into the light, gold tooth gleaming.",
+    "dialog": "I know ya moved grande dame’s name from the marquee to a tombstone. Changed her wonderful life from an “is” to a “was”.",
+    "drawing": "[jamal] laughs at [tiara]",
     "caption": "",
     "lyrics": "",
-    "row": 64
+    "row": 64,
+    "expanded": "Young male, burly, black, doo rag, tats, a scar on his neck, 50 Cent and Mike Tyson, wearing a hoodie laughs at early 30s ethnically ambiguous woman in a red dress wearing Jackie Onassis sunglasses"
   },
   {
-    "name": "",
+    "name": "ConferenceRoom",
     "location": "ConferenceRoom",
-    "actor": "",
+    "actor": "Tiara",
     "description": "",
-    "dialog": "",
-    "drawing": "",
+    "dialog": "Who the fuck--?",
+    "drawing": "Tiara yells back at [Jamal]",
     "caption": "",
     "lyrics": "",
-    "row": 65
+    "row": 65,
+    "expanded": "Tiara yells back at [Jamal]"
   },
   {
     "name": "",
@@ -836,5 +868,38 @@
     "caption": "",
     "lyrics": "",
     "row": 75
+  },
+  {
+    "name": "",
+    "location": "ConferenceRoom",
+    "actor": "",
+    "description": "",
+    "dialog": "",
+    "drawing": "",
+    "caption": "",
+    "lyrics": "",
+    "row": 76
+  },
+  {
+    "name": "",
+    "location": "ConferenceRoom",
+    "actor": "",
+    "description": "",
+    "dialog": "",
+    "drawing": "",
+    "caption": "",
+    "lyrics": "",
+    "row": 77
+  },
+  {
+    "name": "",
+    "location": "ConferenceRoom",
+    "actor": "",
+    "description": "",
+    "dialog": "",
+    "drawing": "",
+    "caption": "",
+    "lyrics": "",
+    "row": 78
   }
 ]

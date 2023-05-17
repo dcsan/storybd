@@ -1,0 +1,34 @@
+body {
+  background-color: black;
+  color: white;
+  padding: 10px;
+  font-family: sans-serif;
+}
+
+div {
+  font-size: 20px;
+  margin: 10px;
+  color: #FFFFFF;
+}
+
+.dialog {
+  border: 1px solid #FFCCFF;
+  font-style: italic;
+  color: #FFCCFF;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.caption {
+  color: #FFFFAA;
+  font-style: italic;
+}
+
+.lyrics {
+  white-space: pre;
+  text-transform: uppercase;
+  color: #ccFFCC;
+  border: 1px solid #ccFFCC;
+  border-radius: 5px;
+  padding: 10px;
+}
